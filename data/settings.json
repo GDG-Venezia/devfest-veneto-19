@@ -1,12 +1,10 @@
 {
   "organizer": {
     "name": "GDG Venezia",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "twitter": "gdgvenezia"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-11-16T09:00:00+01:00",
+  "endDate": "2019-11-16T19:00:00+01:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -15,7 +13,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFestVeneto19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -149,30 +147,26 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/it-IT/GDG-Venezia/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgvenezia"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdgvenezia"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://twitter.com/gdgvenezia"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCnXHsg8plcHc_NuCETV2k6Q"
       }
     ],
     "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="
