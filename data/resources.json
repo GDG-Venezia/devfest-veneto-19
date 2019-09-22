@@ -124,7 +124,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Ticket grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -141,7 +141,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFest Veneto 2018 Videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PL0bBHyAilexzjO3INYxjcHaowogFwa48N"

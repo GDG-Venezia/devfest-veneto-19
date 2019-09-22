@@ -3,10 +3,10 @@
     "name": "GDG Venezia",
     "twitter": "gdgvenezia"
   },
-  "startDate": "2019-11-16T09:00:00+01:00",
-  "endDate": "2019-11-16T19:00:00+01:00",
+  "startDate": "2019-11-16T09:00:00+02:00",
+  "endDate": "2019-11-16T19:00:00+02:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest Veneto 19",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
