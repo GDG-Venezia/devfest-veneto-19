@@ -62,7 +62,7 @@
       "links": [
         {
           "name": "Become a partner",
-          "url": "",
+          "url": "/data/partnership19.pdf",
           "newTab": true
         },
         {
@@ -80,41 +80,41 @@
   ],
   "subscribeNote": "No spam, only the latest news and updates!",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "DevFest Veneto is back!",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "And also this year, GDG Venezia organizes the DevFest Veneto, a one-day conference about Mobile, Cloud, Machine Learning and much more...",
+        "label": "Explore speakers",
+        "link": "/speakers/"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Past editions was amazing. Ready for a more amazing DevFest?",
+        "label": "See how it was in 2018",
+        "link": "https://gdg-venezia.github.io/devfest-veneto-18/"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "200+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Day",
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Ticket grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Ticket grant access to all conference sections, coffee break and lunch.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -122,13 +122,7 @@
   "partnersBlock": {
     "title": "Partners",
     "button": "Become a partner",
-    "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
-    },
-    "toast": "We will contact you soon!"
+    "link": "/data/partnership19.pdf"
   },
   "featuredVideos": {
     "title": "DevFest Veneto 2018 Videos",
@@ -229,7 +223,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/it-IT/GDG-Venezia/' target='_blank'>GDG Venezia</a> is proud organizer of DevFest Veneto 19",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
