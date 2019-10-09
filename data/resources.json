@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November, 16 2019",
-  "partnershipProposition": "/data/partnership19.pdf",
+  "partnershipProposition": "https://docs.google.com/document/d/17msVs11WrrUEPFkvqM_jofl02cdR0G3h-Wgm6orV5ac/edit?usp=sharing",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -62,7 +62,7 @@
       "links": [
         {
           "name": "Become a partner",
-          "url": "/data/partnership19.pdf",
+          "url": "https://docs.google.com/document/d/17msVs11WrrUEPFkvqM_jofl02cdR0G3h-Wgm6orV5ac/edit?usp=sharing",
           "newTab": true
         },
         {
@@ -122,7 +122,7 @@
   "partnersBlock": {
     "title": "Partners",
     "button": "Become a partner",
-    "link": "/data/partnership19.pdf"
+    "link": "https://docs.google.com/document/d/17msVs11WrrUEPFkvqM_jofl02cdR0G3h-Wgm6orV5ac/edit?usp=sharing"
   },
   "featuredVideos": {
     "title": "DevFest Veneto 2018 Videos",

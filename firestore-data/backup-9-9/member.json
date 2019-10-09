@@ -1,0 +1,184 @@
+{
+    "0": {
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+        "name": "Oleh Zasadnyy",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/+OlehZasadnyy",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/oleh.zasadnyy",
+                "name": "Facebook"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/ozasadnyy"
+            },
+            {
+                "name": "Blog",
+                "icon": "website",
+                "link": "http://o.zasadnyy.com/"
+            }
+        ],
+        "title": "Website and sponsors",
+        "photo": "/images/people/oleh_zasadnyy.jpg",
+        "order": 0
+    },
+    "1": {
+        "title": "Social and media",
+        "photo": "/images/people/sofiya_huts.jpg",
+        "order": 1,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+        "name": "Sofiya Huts",
+        "socials": [
+            {
+                "name": "Google+",
+                "icon": "gplus",
+                "link": "https://plus.google.com/+SofiaHuts"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/sophie.huts.7",
+                "name": "Facebook"
+            }
+        ]
+    },
+    "2": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+        "name": "Vitaliy Zasadnyy",
+        "socials": [
+            {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/zasadnyy",
+                "name": "Linkedin"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/zasadnyy",
+                "name": "Twitter"
+            },
+            {
+                "icon": "website",
+                "link": "http://v.zasadnyy.com/",
+                "name": "Blog"
+            }
+        ],
+        "title": "Speakers",
+        "photo": "/images/people/vitaliy_zasadnyy.jpg",
+        "order": 2
+    },
+    "3": {
+        "order": 3,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+        "name": "Marta Maxymiak",
+        "socials": [
+            {
+                "name": "Google+",
+                "icon": "gplus",
+                "link": "https://plus.google.com/104036874811391520583"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/marta.maxymiak",
+                "name": "Facebook"
+            }
+        ],
+        "title": "Party and happiness",
+        "photo": "/images/people/marta_maxymiak.jpg"
+    },
+    "4": {
+        "title": "Sponsors",
+        "photo": "/images/people/ostap_andrusiv.jpg",
+        "order": 4,
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+        "name": "Ostap Andrusiv",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://google.com/+OstapAndrusiv",
+                "name": "Google+"
+            },
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://www.facebook.com/ostap.andrusiv"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/p1f"
+            },
+            {
+                "icon": "website",
+                "link": "http://andrusiv.com/",
+                "name": "Blog"
+            }
+        ]
+    },
+    "5": {
+        "order": 5,
+        "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+        "name": "Vasylyna Mytsak",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/+ВасилинаМицак",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/vasylyna.mytsak",
+                "name": "Facebook"
+            }
+        ],
+        "title": "Party and happiness",
+        "photo": "/images/people/vasylyna_mytsak.jpg"
+    },
+    "6": {
+        "order": 6,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
+        "name": "Volodya Karpliuk",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/+VolodyaKarpliuk23",
+                "name": "Google+"
+            },
+            {
+                "icon": "facebook",
+                "link": "https://www.facebook.com/volodya.karpluk",
+                "name": "Facebook"
+            },
+            {
+                "name": "Twitter",
+                "icon": "twitter",
+                "link": "https://twitter.com/keyv23"
+            }
+        ],
+        "title": "Speakers",
+        "photo": "/images/people/volodya_karpliuk.jpg"
+    },
+    "7": {
+        "order": 7,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
+        "name": "Diana Pinchuk",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/+DianaPinchuk",
+                "name": "Google+"
+            },
+            {
+                "name": "Facebook",
+                "icon": "facebook",
+                "link": "https://www.facebook.com/diana.pinchuk.9"
+            }
+        ],
+        "title": "Social and media",
+        "photo": "/images/people/diana_pinchuk.jpg"
+    }
+}
