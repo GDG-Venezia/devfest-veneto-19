@@ -107,20 +107,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Venezia",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Campus Scientifico Università Ca' Foscari - Building Zeta ",
+    "city": "Mestre, Venezia",
+    "short": "Mestre, Venezia",
+    "address": "Via Torino, 155, 30170 Mestre, Venezia VE",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 45.4787076,
+      "longitude": 12.2525558,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Campus Scientifico Università Ca' Foscari - Building Zeta"
   },
   "mediaQueries": {
     "xs": {
