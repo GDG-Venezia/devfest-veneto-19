@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Get a ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -99,7 +99,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "15"
+        "number": "18"
       },
       "tracks": {
         "label": "Tracks",
