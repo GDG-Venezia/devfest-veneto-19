@@ -1,0 +1,176 @@
+{
+    "daniele_bonaldo": {
+        "order": 3,
+        "featured": false,
+        "shortBio": "Android Developer & GDE",
+        "company": "Novoda",
+        "photoUrl": "/images/people/Daniele_Bonaldo.jpg",
+        "companyLogoUrl": "/images/logos/gde.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/danybony_",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/danielebonaldo",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.danielebonaldo.com/",
+                "icon": "website",
+                "name": "Website"
+            }
+        ],
+        "name": "Daniele Bonaldo",
+        "bio": "Daniele is a freelance Android developer. He’s passionate about photography and wearable technologies. Before working at Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
+        "badges": [
+            {
+                "name": "gde",
+                "description": "Android, Internet of Things, Wearables Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo"
+            }
+        ]
+    },
+    "gazihan_alankus": {
+        "badges": [
+            {
+                "name": "gde",
+                "description": "Dart Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
+            }
+        ],
+        "photo": "images/people/Gazihan_Alankus.jpg",
+        "order": 1,
+        "featured": true,
+        "shortBio": "Dart GDE, Assistant Professor, Founder of GBot LLC.",
+        "company": "GBot Consultants, LLC",
+        "companyLogoUrl": "/images/logos/gde.png",
+        "photoUrl": "images/people/Gazihan_Alankus.jpg",
+        "socials": [
+            {
+                "icon": "gplus",
+                "link": "https://plus.google.com/+JanaMoudrá/posts",
+                "name": "Google+"
+            },
+            {
+                "icon": "twitter",
+                "link": "https://twitter.com/gazialankus",
+                "name": "Twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/gazihan-alankus-7720501/"
+            }
+        ],
+        "name": "Gazihan Alankus",
+        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. "
+    },
+    "gianluca_segato": {
+        "order": 0,
+        "featured": true,
+        "shortBio": "Uniwhere founder",
+        "company": "Uniwhere",
+        "photoUrl": "/images/people/gianluca_segato.jpg",
+        "companyLogoUrl": "/images/logos/uniwhere.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://www.twitter.com/giansegato",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://linkedin.com/in/giansegato",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "name": "Website",
+                "link": "http://gian.lu/",
+                "icon": "website"
+            }
+        ],
+        "name": "Gianluca Segato",
+        "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post.",
+        "companyLogo": "/images/logos/uniwhere.png"
+    },
+    "ines_huertas_freire": {
+        "order": 2,
+        "featured": true,
+        "shortBio": "Rladies Coordinator Madrid & Datanauts Open Data NASA",
+        "photoUrl": "/images/people/Ines_Huertas_Freire.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/quierodata",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/ineshuertas/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "name": "Website",
+                "link": "https://padlet.com/ihuertas/npvnik8zhfqq",
+                "icon": "website"
+            }
+        ],
+        "name": "Ines Huertas Freire",
+        "bio": "Ines Huertas is Big Data and Machine Learning expert, she is a coordinator in Rladies Madrid and Datanauts in the Open Data NASA Program. She participates as a speaker in different conferences, in 2015 she founded her own Big Data and ML startups, of which she was CEO for 4 years. She currently advises companies within the data area."
+    },
+    "michel_murabito": {
+        "order": 4,
+        "featured": false,
+        "shortBio": "Deputy CTO @Liscor (Gruppo @Lutech)",
+        "company": "Liscor (Gruppo Lutech)",
+        "photoUrl": "/images/people/Michel_Murabito.jpg",
+        "companyLogoUrl": "/images/logos/lutech.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/michelmurabito",
+                "icon": "twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
+                "icon": "linkedin"
+            },
+            {
+                "name": "Website",
+                "link": "https://medium.com/@mich.murabito/",
+                "icon": "website"
+            }
+        ],
+        "name": "Michel Murabito",
+        "bio": "Web Developer By Day, Superhero Wannabe By Night!"
+    },
+    "vasudev_maduri": {
+        "shortBio": "Technology Enthusiasit, Machine Learning developer",
+        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
+        "socials": [
+            {
+                "link": "https://twitter.com/devmaduri",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/vasudevmaduri/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "name": "Website",
+                "link": "http://deva4u.wordpress.com",
+                "icon": "website"
+            }
+        ],
+        "name": "Vasudev Maduri",
+        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.        ",
+        "order": 5,
+        "featured": true
+    }
+}

@@ -1,0 +1,59 @@
+<!-- Adapted from Dev Fest Pisa website: https://github.com/gdgpisa/hoverboard-2019/blob/master/src/elements/call-to-action-block.html -->
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="hoverboard-icons.html">
+
+<dom-module id="location-block">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
+
+    <style>
+      :host {
+        display: block;
+        background: #673AB7;
+        color: var(--text-primary-color);
+      }
+      .block:not(:last-of-type) {
+        margin-bottom: 32px;
+      }
+      .description {
+        color: var(--secondary-text-color);
+      }
+      paper-button {
+        margin: 0;
+      }
+    </style>
+
+    <div class="container container-narrow">
+      <h1 class="container-title">Location</h1>
+      <p>Campus Scientifico Università Ca' Foscari - Building Zeta</p>
+      <p>Via Torino, 155, 30170 Mestre, Venezia VE</p>
+      <p>
+        <a href="https://goo.gl/maps/XfRDyGZEMornDLhv8" target="_blank"><paper-button primary invert>Open Map</paper-button></a>
+      </p> 
+    </div>
+  </template>
+
+  <script>
+    class CallToActionBlock extends ReduxMixin(Polymer.Element) {
+      static get is() {
+        return 'location-block';
+      }
+      static get properties() {
+        return {
+          viewport: {
+            type: Object,
+            statePath: 'ui.viewport',
+          },
+        };
+      }
+    }
+    customElements.define(CallToActionBlock.is, CallToActionBlock);
+  </script>
+</dom-module>
