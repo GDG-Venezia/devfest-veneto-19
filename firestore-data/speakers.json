@@ -1,7 +1,32 @@
 {
+    "alessandro_pezzato": {
+        "photoUrl": "/images/people/Alessandro_Pezzato.jpg",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/alepezzato",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://linkedin.com/in/alessandropezzato",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://pezzato.net",
+                "icon": "website",
+                "name": "Website"
+            }
+        ],
+        "name": "Alessandro Pezzato",
+        "bio": "Coding for passion since I was a child, now working as C++ trainer and developer.",
+        "order": 10,
+        "featured": false,
+        "shortBio": "Freelance C++ developer and trainer"
+    },
     "daniele_bonaldo": {
         "order": 3,
-        "featured": false,
+        "featured": true,
         "shortBio": "Android Developer & GDE",
         "company": "Novoda",
         "photoUrl": "/images/people/Daniele_Bonaldo.jpg",
@@ -13,14 +38,14 @@
                 "icon": "twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/danielebonaldo",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
+                "name": "Website",
                 "link": "https://www.danielebonaldo.com/",
-                "icon": "website",
-                "name": "Website"
+                "icon": "website"
             }
         ],
         "name": "Daniele Bonaldo",
@@ -34,13 +59,6 @@
         ]
     },
     "gazihan_alankus": {
-        "badges": [
-            {
-                "name": "gde",
-                "description": "Dart Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
-            }
-        ],
         "photo": "images/people/Gazihan_Alankus.jpg",
         "order": 1,
         "featured": true,
@@ -50,9 +68,9 @@
         "photoUrl": "images/people/Gazihan_Alankus.jpg",
         "socials": [
             {
+                "name": "Google+",
                 "icon": "gplus",
-                "link": "https://plus.google.com/+JanaMoudrá/posts",
-                "name": "Google+"
+                "link": "https://plus.google.com/+JanaMoudrá/posts"
             },
             {
                 "icon": "twitter",
@@ -66,9 +84,17 @@
             }
         ],
         "name": "Gazihan Alankus",
-        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. "
+        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
+        "badges": [
+            {
+                "name": "gde",
+                "description": "Dart Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
+            }
+        ]
     },
     "gianluca_segato": {
+        "companyLogo": "/images/logos/uniwhere.png",
         "order": 0,
         "featured": true,
         "shortBio": "Uniwhere founder",
@@ -77,14 +103,14 @@
         "companyLogoUrl": "/images/logos/uniwhere.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://www.twitter.com/giansegato",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://linkedin.com/in/giansegato",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
                 "name": "Website",
@@ -93,8 +119,7 @@
             }
         ],
         "name": "Gianluca Segato",
-        "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post.",
-        "companyLogo": "/images/logos/uniwhere.png"
+        "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post."
     },
     "ines_huertas_freire": {
         "order": 2,
@@ -103,9 +128,9 @@
         "photoUrl": "/images/people/Ines_Huertas_Freire.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/quierodata",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
                 "link": "https://www.linkedin.com/in/ineshuertas/",
@@ -121,6 +146,34 @@
         "name": "Ines Huertas Freire",
         "bio": "Ines Huertas is Big Data and Machine Learning expert, she is a coordinator in Rladies Madrid and Datanauts in the Open Data NASA Program. She participates as a speaker in different conferences, in 2015 she founded her own Big Data and ML startups, of which she was CEO for 4 years. She currently advises companies within the data area."
     },
+    "luca_massaron": {
+        "photoUrl": "/images/people/Luca_Massaron.jpg",
+        "companyLogoUrl": "/images/logos/gde.png",
+        "socials": [
+            {
+                "link": "https://twitter.com/lucamassaron",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/lmassaron/",
+                "icon": "linkedin"
+            }
+        ],
+        "name": "Luca Massaron",
+        "bio": "Data scientist transforming data into smarter artifacts. Author of For Dummies books on AI, machine learning and algorithms. Kaggle master.",
+        "badges": [
+            {
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-luca_massaron",
+                "name": "gde",
+                "description": "Machine Learning Google Developer Expert"
+            }
+        ],
+        "order": 8,
+        "featured": true,
+        "shortBio": "Google Developer Expert"
+    },
     "michel_murabito": {
         "order": 4,
         "featured": false,
@@ -130,37 +183,94 @@
         "companyLogoUrl": "/images/logos/lutech.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/michelmurabito",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             },
             {
-                "name": "Website",
                 "link": "https://medium.com/@mich.murabito/",
-                "icon": "website"
+                "icon": "website",
+                "name": "Website"
             }
         ],
         "name": "Michel Murabito",
         "bio": "Web Developer By Day, Superhero Wannabe By Night!"
     },
-    "vasudev_maduri": {
-        "shortBio": "Technology Enthusiasit, Machine Learning developer",
-        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
+    "michele_mauro": {
+        "order": 6,
+        "featured": false,
+        "shortBio": "Passionate developer",
+        "photoUrl": "/images/people/Michele_Mauro.jpg",
         "socials": [
             {
-                "link": "https://twitter.com/devmaduri",
+                "link": "https://twitter.com/michelemauro",
                 "icon": "twitter",
                 "name": "Twitter"
             },
             {
-                "link": "https://www.linkedin.com/in/vasudevmaduri/",
+                "link": "https://www.linkedin.com/in/mauromichele/",
                 "icon": "linkedin",
                 "name": "LinkedIn"
+            }
+        ],
+        "name": "Michele Mauro",
+        "bio": "Passionate developer, from more years that I want to admit. From Pascal to Scala, through Perl, Java, and a lot of other languages and technologies, I've seen many. And often I like to chat about it."
+    },
+    "thomas_rossetto": {
+        "socials": [
+            {
+                "link": "https://twitter.com/rosse91",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/thomasrossetto/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            }
+        ],
+        "name": "Thomas Rossetto",
+        "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover.",
+        "order": 9,
+        "featured": false,
+        "shortBio": "Software Developer @ Seesaw | Community Lead @ Programmers in Padua",
+        "company": "Seesaw",
+        "photoUrl": "/images/people/Thomas_Rossetto.jpg",
+        "companyLogoUrl": "/images/logos/seesaw.png"
+    },
+    "umberto_mattei": {
+        "company": "Google",
+        "photoUrl": "/images/people/Umberto_Mattei.png",
+        "companyLogoUrl": "/images/logos/google.svg",
+        "socials": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/umbertomattei/",
+                "icon": "linkedin"
+            }
+        ],
+        "name": "Umberto Mattei",
+        "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform.",
+        "order": 7,
+        "featured": true,
+        "shortBio": "Customer Engineer at Google Cloud"
+    },
+    "vasudev_maduri": {
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/devmaduri",
+                "icon": "twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/vasudevmaduri/",
+                "icon": "linkedin"
             },
             {
                 "name": "Website",
@@ -169,8 +279,39 @@
             }
         ],
         "name": "Vasudev Maduri",
-        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.        ",
+        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.",
         "order": 5,
-        "featured": true
+        "featured": false,
+        "shortBio": "Technology Enthusiasit, Machine Learning developer",
+        "company": "Hitachi Consulting",
+        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
+        "companyLogoUrl": "/images/logos/hitachi.png"
+    },
+    "alessandro_calzavara": {
+        "order": 11,
+        "featured": true,
+        "shortBio": "Senior Mobile Engineer at Voxnest",
+        "company": "Voxnest",
+        "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
+        "companyLogoUrl": "/images/logos/voxnest.png",
+        "socials": [
+            {
+                "link": "https://twitter.com/DrAL3X",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "http://linkedin.com/in/alessandrocalzavara",
+                "icon": "linkedin"
+            },
+            {
+                "name": "Website",
+                "link": "https://alessandrocalzavara.com/",
+                "icon": "website"
+            }
+        ],
+        "name": "Alessandro Calzavara",
+        "bio": "Senior software engineer specialized in mobile development. Curious about too many things"
     }
 }

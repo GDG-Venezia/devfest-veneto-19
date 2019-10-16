@@ -1,1 +1,205 @@
-{"201":{"tags":["Mobile","Management"],"speakers":["gianluca_segato"],"title":"Don't do native if you want VC money!","videoId":"","language":"English","description":"All of us heard about this magical creature living in the product space called MVP. Or at least we've heard some manager babbling about it. In this talk, we'll discuss the key tech requirements of a Minimum Viable Product, from metrics drivers to fast delivery, in relation to what investors usually look for when evaluating a startup. We will then discover why native development, when viewed through the lens of cost-benefit ratio, is most of the time not the best tech-stack to choose if you're building a blitzscaling company from the group up – and why cross-platform frameworks like Flutter are. Finally, we'll go through technical debt as well and what it means if you're raising a new funding round, as it is the natural downside of not going native since day 0.","presentation":"","complexity":"Beginner"},"202":{"videoId":"","language":"English","description":"You often have to create asynchronous code while developing Flutter applications. To do this effectively, essential steps are understanding the event loop, basics of Futures and Streams, async/await, async* and yield keywords and learning about a number of helper classes. Furthermore, there are a number of common patterns that arise while creating asynchronous code that is interactive. In this talk, even if you never wrote asynchronous code before, you will understand the concept, the tools and the patterns that will be useful in your asynchronous programming journey. This should help you become a better Flutter developer. ","presentation":"","complexity":"Intermediate","tags":["Mobile"],"speakers":["gazihan_alankus"],"title":"Improve Your Asynchronous Code in Flutter"},"203":{"tags":["Cloud","Machine Learning"],"speakers":["ines_huertas_freire"],"title":"Deployment Tensorflow Models over Google Cloud","language":"English","videoId":"","description":"During the talk we will see a small evolution of how we can put models into production, from generating API points with R models to one of the simplest solutions using Tensorflow with Google Cloud","presentation":"","complexity":"Intermediate"},"204":{"title":"Google Cast, when one screen is not enough","language":"English","videoId":"","description":"When we develop mobile apps or websites, our users can interact with them using a large selection of displays, but there is one that is often ignored: the TV one. In this talk I'll give and introduction to Google Cast, seeing how it can be used to to create a more central, prominent space for the most important content of your service. ","presentation":"","complexity":"Beginner","tags":["Mobile","Web"],"speakers":["daniele_bonaldo"]},"205":{"tags":["Managment"],"speakers":["michel_murabito"],"title":"Manage Teams, a space adventure!","language":"English","videoId":"","description":"Managing un team è complesso, alcune volte sembra quasi di essere soli durante l’esplorazione spaziale! Ma nessun grande lavoro può essere fatto senza un grande team. “Da grandi team grandi responsabilità”, non era proprio così… Ma cosa dovresti fare per aiutare il tuo gruppo a raggiungere gli obiettivi? E quali pratiche sane dovresti introdurre per rendere il luogo di lavoro, un pò, migliore?","presentation":"","complexity":"Intermediate"},"206":{"tags":["Cloud","Web"],"speakers":["vasudev_maduri"],"title":"A brave new world. \"Serverless\" computing on Google Cloud.","videoId":"","language":"English","description":"Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions.","presentation":"","complexity":"Intermediate"},"232":{"icon":"registration","title":"Registration","image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe","description":"Get your badge, coffee, enjoy talking with tech edicts around"},"233":{"description":"Foooooooood!","icon":"lunch","title":"Lunch","image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"},"234":{"title":"Coffee break","image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7","description":"Coffeeeeeee!","icon":"coffee-break"},"236":{"language":"English","description":"Official start of the conference. Greetings from the organizers, sponsors and partners.","icon":"opening","title":"GDG DevFest Ukraine 2016 Opening","image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b"},"238":{"title":"Conference closing and contest winners announcements","image":"https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed","description":"Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."}}
+{
+    "201": {
+        "tags": [
+            "Mobile",
+            "Management"
+        ],
+        "speakers": [
+            "gianluca_segato"
+        ],
+        "title": "Don't do native if you want VC money!",
+        "videoId": "",
+        "language": "English",
+        "description": "All of us heard about this magical creature living in the product space called MVP. Or at least we've heard some manager babbling about it. In this talk, we'll discuss the key tech requirements of a Minimum Viable Product, from metrics drivers to fast delivery, in relation to what investors usually look for when evaluating a startup. We will then discover why native development, when viewed through the lens of cost-benefit ratio, is most of the time not the best tech-stack to choose if you're building a blitzscaling company from the group up – and why cross-platform frameworks like Flutter are. Finally, we'll go through technical debt as well and what it means if you're raising a new funding round, as it is the natural downside of not going native since day 0.",
+        "presentation": "",
+        "complexity": "Beginner"
+    },
+    "202": {
+        "tags": [
+            "Mobile"
+        ],
+        "speakers": [
+            "gazihan_alankus"
+        ],
+        "title": "Improve Your Asynchronous Code in Flutter",
+        "videoId": "",
+        "language": "English",
+        "description": "You often have to create asynchronous code while developing Flutter applications. To do this effectively, essential steps are understanding the event loop, basics of Futures and Streams, async/await, async* and yield keywords and learning about a number of helper classes. Furthermore, there are a number of common patterns that arise while creating asynchronous code that is interactive. In this talk, even if you never wrote asynchronous code before, you will understand the concept, the tools and the patterns that will be useful in your asynchronous programming journey. This should help you become a better Flutter developer. ",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "203": {
+        "tags": [
+            "Cloud",
+            "Machine Learning"
+        ],
+        "speakers": [
+            "ines_huertas_freire"
+        ],
+        "title": "Deployment Tensorflow Models over Google Cloud",
+        "language": "English",
+        "videoId": "",
+        "description": "During the talk we will see a small evolution of how we can put models into production, from generating API points with R models to one of the simplest solutions using Tensorflow with Google Cloud",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "204": {
+        "tags": [
+            "Mobile",
+            "Web"
+        ],
+        "speakers": [
+            "daniele_bonaldo"
+        ],
+        "title": "Google Cast, when one screen is not enough",
+        "language": "English",
+        "videoId": "",
+        "description": "When we develop mobile apps or websites, our users can interact with them using a large selection of displays, but there is one that is often ignored: the TV one. In this talk I'll give and introduction to Google Cast, seeing how it can be used to to create a more central, prominent space for the most important content of your service. ",
+        "presentation": "",
+        "complexity": "Beginner"
+    },
+    "205": {
+        "description": "Managing un team è complesso, alcune volte sembra quasi di essere soli durante l’esplorazione spaziale! Ma nessun grande lavoro può essere fatto senza un grande team. “Da grandi team grandi responsabilità”, non era proprio così… Ma cosa dovresti fare per aiutare il tuo gruppo a raggiungere gli obiettivi? E quali pratiche sane dovresti introdurre per rendere il luogo di lavoro, un pò, migliore?",
+        "presentation": "",
+        "complexity": "Intermediate",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            "michel_murabito"
+        ],
+        "title": "Manage Teams, a space adventure!",
+        "language": "English",
+        "videoId": ""
+    },
+    "206": {
+        "presentation": "",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            "vasudev_maduri"
+        ],
+        "title": "A brave new world. \"Serverless\" computing on Google Cloud.",
+        "videoId": "",
+        "language": "English",
+        "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions."
+    },
+    "207": {
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            "michele_mauro"
+        ],
+        "title": "5 things you may want to know before an Event Sourcing project",
+        "videoId": "",
+        "language": "English",
+        "description": "Event Sourcing architecture is all the rage: it works well with DDD, enables scalability, and you can use all the coolest and newest technologies! But after you've had fun writing the code, and past the excitement of the launch party, what happens? After 100 days in production, what problems may you encounter, and what you should have anticipated, during development, to avoid them?",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "208": {
+        "title": "Machine Learning on Google Cloud: From APIs to AI Platform",
+        "videoId": "",
+        "language": "English",
+        "description": "Ever wondered which technology sits behind the Not Hotdog app from HBO's TV series Silicon Valley? If you wish to hear more, join us for a session on Machine Learning basics and how to do Machine Learning on Google Cloud.",
+        "presentation": "",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning",
+            "Cloud"
+        ],
+        "speakers": [
+            "umberto_mattei"
+        ]
+    },
+    "209": {
+        "description": "Deep Learning can be used also for predictions based on tabular data, the data you usually find in databases and in tables. In this sessions, we will discuss how such an approach works and how it is competitive in respect of more popular machine learning algorithms such as gradient boosting.",
+        "presentation": "",
+        "complexity": "Intermediate",
+        "tags": [
+            "Machine Learning"
+        ],
+        "speakers": [
+            "luca_massaron"
+        ],
+        "title": "Deep Learning for tabular data",
+        "videoId": "",
+        "language": "English"
+    },
+    "210": {
+        "tags": [
+            "Workshop"
+        ],
+        "speakers": [
+            "alessandro_pezzato"
+        ],
+        "title": "Coding Gym",
+        "videoId": "",
+        "language": "English",
+        "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills.",
+        "presentation": "",
+        "complexity": "Beginner"
+    },
+    "211": {
+        "videoId": "",
+        "language": "Italian",
+        "description": "Vuoi navigare in internet? C'è il browser! Vuoi un ambiente dove poter programmare? C'è l'IDE! Vuoi preservare i fosfori del tuo monitor? C'è lo screen saver! Vuoi ascoltare la musica? C'è Spotify ! Vuoi parlare con il tuo team remoto sparso per il mondo? C'è Slack! Vuoi sapere se il tuo codice è di qualità? C'è... ehm... che c'è ? In questo talk voglio farvi fare un tour ( di qualità ) sulla qualità del codice, e raccontarvi la mia esperienza su quali fantastici Quality Check Tools ho usato per non vergognarmi troppo del codice che scrivo e come la tool chain scelta mi aiuti in questa direzione.",
+        "presentation": "",
+        "complexity": "Intermediate",
+        "tags": [
+            "Code Quality"
+        ],
+        "speakers": [
+            "thomas_rossetto"
+        ],
+        "title": "QCT fantastici e dove trovarli"
+    },
+    "212": {
+        "videoId": "",
+        "language": "English",
+        "description": "I’m a remote worker since a while. I went through all ups and downs and I learnt few things along the road. These are the things that I would have liked to know before starting.",
+        "presentation": "",
+        "complexity": "Beginner",
+        "tags": [
+            "Remote Working",
+            "Management"
+        ],
+        "speakers": [
+            "alessandro_calzavara"
+        ],
+        "title": "Remote Working: 9 years of lessons learnt"
+    },
+    "232": {
+        "title": "Registration",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "icon": "registration"
+    },
+    "233": {
+        "description": "Foooooooood!",
+        "icon": "lunch",
+        "title": "Lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225"
+    },
+    "234": {
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break",
+        "title": "Coffee break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7"
+    },
+    "236": {
+        "icon": "opening",
+        "title": "GDG DevFest Ukraine 2016 Opening",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "language": "English",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
+    },
+    "238": {
+        "title": "Conference closing and contest winners announcements",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
+    }
+}
