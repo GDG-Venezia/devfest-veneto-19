@@ -59,7 +59,7 @@
         "complexity": "Beginner"
     },
     "205": {
-        "description": "Managing un team è complesso, alcune volte sembra quasi di essere soli durante l’esplorazione spaziale! Ma nessun grande lavoro può essere fatto senza un grande team. “Da grandi team grandi responsabilità”, non era proprio così… Ma cosa dovresti fare per aiutare il tuo gruppo a raggiungere gli obiettivi? E quali pratiche sane dovresti introdurre per rendere il luogo di lavoro, un pò, migliore?",
+        "description": "Managing a team is complex, sometimes it almost feels like being alone during space exploration! But no great work can be done without a great team. \"From big teams big responsibilities\", it wasn't really like that ... But what should you do to help your group achieve the goals? And what healthy practices should you introduce to make the workplace a little better?",
         "presentation": "",
         "complexity": "Intermediate",
         "tags": [
@@ -171,6 +171,20 @@
             "alessandro_calzavara"
         ],
         "title": "Remote Working: 9 years of lessons learnt"
+    },
+    "213": {
+        "videoId": "",
+        "language": "Italian",
+        "description": "Gli one on one meeting sono colloqui individuali nei quali il team leader e team member si trovano per capire l’andamento di un progetto o, più in generale, della vita aziendale del team member. vengono fatti da tantissime aziende in ambito software con diverse cadenze, durate e regole. L’obiettivo di questi meeting è quello di individuare gli ostacoli e le necessità che riguardano il team member e che possono essere smarcate per migliorare la vita aziendale. In questa sessione racconto come abbiamo introdotto questa pratica in azienda, che risultati ha portato e come abbiamo fatto a far entrare la cultura del feedback in azienda.",
+        "presentation": "",
+        "complexity": "Beginner",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            "daniel_pettenon"
+        ],
+        "title": "One-on-One meeting: strumento per un software migliore"
     },
     "232": {
         "title": "Registration",
