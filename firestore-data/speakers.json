@@ -313,5 +313,32 @@
         ],
         "name": "Alessandro Calzavara",
         "bio": "Senior software engineer specialized in mobile development. Curious about too many things"
+    },
+    "daniel_pettenon": {
+        "order": 12,
+        "featured": false,
+        "shortBio": "CTO @Uqido",
+        "company": "Uqido",
+        "photoUrl": "/images/people/Daniel_Pettenon.jpg",
+        "companyLogoUrl": "/images/logos/UQIDO.svg",
+        "socials": [
+            {
+                "link": "https://twitter.com/d_pette",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/daniel-pettenon-3ba44b30/",
+                "icon": "linkedin"
+            },
+            {
+                "name": "Website",
+                "link": "https://tech.uqido.com/",
+                "icon": "website"
+            }
+        ],
+        "name": "Daniel Pettenon",
+        "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale."
     }
 }

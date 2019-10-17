@@ -1,11 +1,11 @@
 {
   "basepath": "/",
-  "url": "https://devfest-veneto-19.firebaseapp.com/",
-  "analytics": "UA-43643469-8",
+  "url": "https://devfestvenice.com/",
+  "analytics": "UA-90975904-2",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyADmrnvOVB_sKU_pUav4D4_HYWSbz2qk_Y",
-    "authDomain": "devfest-veneto-19.firebaseapp.com",
+    "authDomain": "devfestvenice.com",
     "databaseURL": "https://devfest-veneto-19.firebaseio.com",
     "projectId": "devfest-veneto-19",
     "storageBucket": "devfest-veneto-19.appspot.com",
