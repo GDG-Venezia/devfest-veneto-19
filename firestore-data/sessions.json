@@ -141,7 +141,9 @@
         "language": "English",
         "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills.",
         "presentation": "",
-        "complexity": "Beginner"
+        "complexity": "Beginner",
+        "backgroundColor": "#fbe5cc",
+        "ticketUrl": "http://devfestvenice.com/"
     },
     "211": {
         "videoId": "",
@@ -189,7 +191,7 @@
     "232": {
         "title": "Registration",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "description": "Get your badge and enjoy talking with tech edicts around",
         "icon": "registration"
     },
     "233": {
@@ -206,14 +208,22 @@
     },
     "236": {
         "icon": "opening",
-        "title": "GDG DevFest Ukraine 2016 Opening",
+        "title": "GDG DevFest Veneto 2019 Opening",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
         "language": "English",
-        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners."
+        "description": "Official start of the conference. Greetings from the organizers, presentation of the day."
     },
     "238": {
-        "title": "Conference closing and contest winners announcements",
+        "title": "Conference closing",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session."
+        "description": "Make sure you won't miss closing ceremony!"
+    },
+    "239": {
+        "title": "TBD",
+        "description": "More details soon!"
+    },
+    "240": {
+        "title": "",
+        "description": ""
     }
 }
