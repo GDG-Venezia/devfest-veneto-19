@@ -13,7 +13,6 @@
     <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
 
     <style>
-
       :host {
         display: block;
         background-color: var(--primary-background-color);
@@ -91,6 +90,12 @@
         color: var(--secondary-text-color);
       }
 
+      .session-meta .extra-ticket {
+        font-size: 14px;
+        font-weight: bold;
+        color: var(--accent-color);
+      }
+
       .session-footer {
         font-size: 14px;
       }
@@ -135,47 +140,37 @@
           border: 1px solid var(--border-light-color);
         }
       }
-
     </style>
 
-    <a
-      class="session"
-      href$="/schedule/[[dayName]]?[[toggleQueryParam(queryParams, 'sessionId', session.id)]]"
-      featured$="[[isFeatured]]"
-      layout vertical
-      relative
-    >
-      <iron-icon
-        class="session-icon"
-        icon="hoverboard:[[session.icon]]"
-      ></iron-icon>
+    <a hidden$="[[!session.title]]" class="session" href$="/schedule/[[dayName]]?[[toggleQueryParam(queryParams, 'sessionId', session.id)]]"
+      featured$="[[isFeatured]]" layout vertical relative style="background-color: [[session.backgroundColor]]">
+      <iron-icon class="session-icon" icon="hoverboard:[[session.icon]]"></iron-icon>
 
       <div class="session-header" layout horizontal justified>
         <div flex>
           <h3 class="session-title">[[session.title]]</h3>
-          <div class="session-description" hidden$="[[_hideSessionAbstract(session.shortDescription)]]">[[session.shortDescription]]</div>
+          <div class="session-description" hidden$="[[_hideSessionAbstract(session.shortDescription)]]">
+            [[session.shortDescription]]</div>
         </div>
         <span class="language">[[slice(session.language, 2)]]</span>
       </div>
 
       <div class="session-content" flex layout horizontal justified>
         <div class="session-meta">
+          <div class="extra-ticket" hidden$="[[!session.ticketUrl]]">Extra Registration Needed</div>
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
-        <iron-icon
-          class="bookmark-session"
-          icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
-          on-tap="_toggleFeaturedSession"
-        ></iron-icon>
+        <iron-icon hidden$="[[!session.title]]" class="bookmark-session" icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
+          on-tap="_toggleFeaturedSession"></iron-icon>
       </div>
 
       <div class="session-footer">
         <div layout horizontal justified center-aligned>
           <div class="session-meta" flex>
-            <span
-              hidden$="[[!session.duration.hh]]">[[session.duration.hh]] hour[[_getEnding(session.duration.hh)]]</span>
-            <span
-              hidden$="[[!session.duration.mm]]">[[session.duration.mm]] min[[_getEnding(session.duration.mm)]]</span>
+            <span hidden$="[[!session.title]] hidden$="[[!session.duration.hh]]">[[session.duration.hh]]
+              hour[[_getEnding(session.duration.hh)]]</span>
+            <span hidden$="[[!session.title]] hidden$="[[!session.duration.mm]]">[[session.duration.mm]]
+              min[[_getEnding(session.duration.mm)]]</span>
           </div>
           <div hidden$="[[!session.tags.length]]">
             <template is="dom-repeat" items="[[session.tags]]" as="tag">
@@ -187,16 +182,12 @@
         <div class="speakers" hidden$="[[!session.speakers.length]]">
           <template is="dom-repeat" items="[[session.speakers]]" as="speaker">
             <div class="speaker" layout horizontal center>
-              <plastic-image
-                class="speaker-photo"
-                srcset="[[speaker.photoUrl]]"
-                sizing="cover"
-                lazy-load preload fade
-              ></plastic-image>
+              <plastic-image class="speaker-photo" srcset="[[speaker.photoUrl]]" sizing="cover" lazy-load preload fade>
+              </plastic-image>
 
               <div class="speaker-details" flex>
                 <div class="speaker-name">[[speaker.name]]</div>
-                <div class="speaker-title">[[speaker.company]] / [[speaker.country]]</div>
+                <div class="speaker-title">[[speaker.company]]</div>
               </div>
             </div>
           </template>
