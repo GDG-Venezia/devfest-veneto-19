@@ -139,16 +139,16 @@
         "title": "Coding Gym",
         "videoId": "",
         "language": "English",
-        "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills.",
+        "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills. An additional registration is required to attend to this workshop. Each participant must bring their own PC.",
         "presentation": "",
         "complexity": "Beginner",
         "backgroundColor": "#fbe5cc",
-        "ticketUrl": "http://devfestvenice.com/"
+        "ticketUrl": "https://forms.gle/Vj82cip2UjMgmc3r7"
     },
     "211": {
         "videoId": "",
         "language": "Italian",
-        "description": "Vuoi navigare in internet? C'è il browser! Vuoi un ambiente dove poter programmare? C'è l'IDE! Vuoi preservare i fosfori del tuo monitor? C'è lo screen saver! Vuoi ascoltare la musica? C'è Spotify ! Vuoi parlare con il tuo team remoto sparso per il mondo? C'è Slack! Vuoi sapere se il tuo codice è di qualità? C'è... ehm... che c'è ? In questo talk voglio farvi fare un tour ( di qualità ) sulla qualità del codice, e raccontarvi la mia esperienza su quali fantastici Quality Check Tools ho usato per non vergognarmi troppo del codice che scrivo e come la tool chain scelta mi aiuti in questa direzione.",
+        "description": "Perfetto, ora ho la tua attenzione, giuro che non scriverò SOLDI da nessuna parte 🙂 Ma veniamo a noi, se dico \"qualità\" ti verranno in mente un sacco di cose: probabilmente molto fumose o legate a qualcosa di noioso, come ad esempio le sigle ISOqualcosa. In questo talk però voglio farti fare un tour ( di qualità ) sulla qualità del codice, e raccontarti la mia esperienza su quali tools e approcci abbiamo usato per far si che il nostro lavoro diventi più facile, permettendoci di concentrarci solo sulle cose veramente importanti per noi e per i nostri clienti. Quello che ti porterai a casa sarà un racconto che partirà dai tools fino ad arrivare alla qualità, con un po' di spunti da poter usare tutti i giorni.",
         "presentation": "",
         "complexity": "Intermediate",
         "tags": [
@@ -157,7 +157,7 @@
         "speakers": [
             "thomas_rossetto"
         ],
-        "title": "QCT fantastici e dove trovarli"
+        "title": "Ehi, leggi qui, questo talk è di qualità (ed è GRATIS)!"
     },
     "212": {
         "videoId": "",

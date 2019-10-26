@@ -11,6 +11,26 @@
   <meta content="{$ organizer.name $}" name="author">
   <meta content="Project Hoverboard" name="generator">
 
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '945135442517955');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=945135442517955&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code -->
+
   <title>{$ title $}</title>
 
   <link href="{$ url $}" rel="canonical">
@@ -83,14 +103,14 @@
 
     function loadFirebaseModules(modules) {
       return Promise.all(
-          modules.map((module) => new Promise((resolve, reject) => {
-            const script = document.createElement('script');
-            script.src = `node_modules/firebase/${module}.js`;
-            script.async = false;
-            script.onload = () => resolve();
-            script.onerror = (error) => reject(error);
-            document.head.appendChild(script);
-          })));
+        modules.map((module) => new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = `node_modules/firebase/${module}.js`;
+          script.async = false;
+          script.onload = () => resolve();
+          script.onerror = (error) => reject(error);
+          document.head.appendChild(script);
+        })));
     }
 
     loadFirebaseModules([
@@ -100,32 +120,32 @@
       'firebase-messaging',
       'firebase-performance',
     ])
-        .then(() => {
-          firebase.initializeApp({
-            appId: '{$ firebase.appId $}',
-            apiKey: '{$ firebase.apiKey $}',
-            authDomain: '{$ firebase.authDomain $}',
-            databaseURL: '{$ firebase.databaseURL $}',
-            projectId: '{$ firebase.projectId $}',
-            storageBucket: '{$ firebase.storageBucket $}',
-            messagingSenderId: '{$ firebase.messagingSenderId $}',
-          });
-
-          firebase.performance();
-          firebase.firestore()
-              .enablePersistence({ tabSynchronization: true })
-              .catch(() => {
-                console.warn('DB offline support not available'); // eslint-disable-line no-console
-              });
-          // eslint-disable-next-line no-console
-          console.log('Firebase App is ready!');
+      .then(() => {
+        firebase.initializeApp({
+          appId: '{$ firebase.appId $}',
+          apiKey: '{$ firebase.apiKey $}',
+          authDomain: '{$ firebase.authDomain $}',
+          databaseURL: '{$ firebase.databaseURL $}',
+          projectId: '{$ firebase.projectId $}',
+          storageBucket: '{$ firebase.storageBucket $}',
+          messagingSenderId: '{$ firebase.messagingSenderId $}',
         });
 
-    </script>
-    <script>
-      // First Input Delay polyfill https://github.com/GoogleChromeLabs/first-input-delay
-      // eslint-disable-next-line
-      !function(n,e){var t,o,i,c=[],f={passive:!0,capture:!0},r=new Date,a="pointerup",u="pointercancel";function p(n,c){t||(t=c,o=n,i=new Date,w(e),s())}function s(){o>=0&&o<i-r&&(c.forEach(function(n){n(o,t)}),c=[])}function l(t){if(t.cancelable){var o=(t.timeStamp>1e12?new Date:performance.now())-t.timeStamp;"pointerdown"==t.type?function(t,o){function i(){p(t,o),r()}function c(){r()}function r(){e(a,i,f),e(u,c,f)}n(a,i,f),n(u,c,f)}(o,t):p(o,t)}}function w(n){["click","mousedown","keydown","touchstart","pointerdown"].forEach(function(e){n(e,l,f)})}w(n),self.perfMetrics=self.perfMetrics||{},self.perfMetrics.onFirstInputDelay=function(n){c.push(n),s()}}(addEventListener,removeEventListener);
+        firebase.performance();
+        firebase.firestore()
+          .enablePersistence({ tabSynchronization: true })
+          .catch(() => {
+            console.warn('DB offline support not available'); // eslint-disable-line no-console
+          });
+        // eslint-disable-next-line no-console
+        console.log('Firebase App is ready!');
+      });
+
+  </script>
+  <script>
+    // First Input Delay polyfill https://github.com/GoogleChromeLabs/first-input-delay
+    // eslint-disable-next-line
+    !function (n, e) { var t, o, i, c = [], f = { passive: !0, capture: !0 }, r = new Date, a = "pointerup", u = "pointercancel"; function p(n, c) { t || (t = c, o = n, i = new Date, w(e), s()) } function s() { o >= 0 && o < i - r && (c.forEach(function (n) { n(o, t) }), c = []) } function l(t) { if (t.cancelable) { var o = (t.timeStamp > 1e12 ? new Date : performance.now()) - t.timeStamp; "pointerdown" == t.type ? function (t, o) { function i() { p(t, o), r() } function c() { r() } function r() { e(a, i, f), e(u, c, f) } n(a, i, f), n(u, c, f) }(o, t) : p(o, t) } } function w(n) { ["click", "mousedown", "keydown", "touchstart", "pointerdown"].forEach(function (e) { n(e, l, f) }) } w(n), self.perfMetrics = self.perfMetrics || {}, self.perfMetrics.onFirstInputDelay = function (n) { c.push(n), s() } }(addEventListener, removeEventListener);
   </script>
 
   <script src="node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
@@ -133,8 +153,8 @@
   <script async defer src="scripts/service-worker-registration.js"></script>
 
   <style>
-
-    html, body {
+    html,
+    body {
       min-height: 100%;
       height: 100%;
     }
@@ -173,25 +193,25 @@
 
   <hoverboard-app unresolved>{$ title $}</hoverboard-app>
 
-<noscript>
-  Please enable JavaScript to view this website.
-</noscript>
+  <noscript>
+    Please enable JavaScript to view this website.
+  </noscript>
 
-<script>
-  window.performance && performance.mark && performance.mark('index.html');
+  <script>
+    window.performance && performance.mark && performance.mark('index.html');
 
-  window.onload = function () {
-    const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
-    if (indexRenderTime) {
-      ga('send', 'timing', 'index.html', 'render', indexRenderTime);
-    }
-  };
+    window.onload = function () {
+      const indexRenderTime = window.measureDuration && window.measureDuration('index.html');
+      if (indexRenderTime) {
+        ga('send', 'timing', 'index.html', 'render', indexRenderTime);
+      }
+    };
 
-  window.addEventListener('beforeinstallprompt', (e) => {
-    e.preventDefault();
-    uiActions.setAddToHomeScreen(e);
-  });
-</script>
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      uiActions.setAddToHomeScreen(e);
+    });
+  </script>
 
 </body>
 
