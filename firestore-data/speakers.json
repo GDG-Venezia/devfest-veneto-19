@@ -206,6 +206,8 @@
         "featured": false,
         "shortBio": "Passionate developer",
         "photoUrl": "/images/people/Michele_Mauro.jpg",
+        "company": "Aton",
+        "companyLogoUrl": "/images/logos/aton.svg",
         "socials": [
             {
                 "link": "https://twitter.com/michelemauro",
