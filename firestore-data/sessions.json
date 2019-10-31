@@ -188,6 +188,35 @@
         ],
         "title": "One-on-One meeting: strumento per un software migliore"
     },
+    "214": {
+        "videoId": "",
+        "language": "English",
+        "description": "An introduction to AR with Unity, with the aim to give some tips and warns about risks and problems",
+        "presentation": "",
+        "complexity": "Beginner",
+        "tags": [
+            "AR"
+        ],
+        "speakers": [
+            "marcello_bertoli"
+        ],
+        "title": "AR 101 with Unity"
+    },
+    "215": {
+        "videoId": "",
+        "language": "Italian",
+        "description": "Google BigQuery Machine Learning per la previsione di eventi e l'uso di tecnologie di Machine Learning legate alla previsione di fatti legati all'iterazione uomo-macchina. In questa sessione si vedrà come si possono prevedere i risultati delle partite di calcio balilla raccogliendo i dati storici dai sensori collegati al calcetto ed elaborando un modello che possa prevedere le quote di vincita della prossima partita basandosi sui risultati storici raccolti.",
+        "presentation": "",
+        "complexity": "Intermediate",
+        "tags": [
+            "Machine Learning",
+            "Cloud"
+        ],
+        "speakers": [
+            "paolo_bertuzzo"
+        ],
+        "title": "Regressione lineare con Google BigQuery ML"
+    },
     "232": {
         "title": "Registration",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",

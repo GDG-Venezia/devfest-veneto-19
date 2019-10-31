@@ -1,0 +1,853 @@
+{
+    "201": {
+        "track": {
+            "title": "Green Track"
+        },
+        "description": "All of us heard about this magical creature living in the product space called MVP. Or at least we've heard some manager babbling about it. In this talk, we'll discuss the key tech requirements of a Minimum Viable Product, from metrics drivers to fast delivery, in relation to what investors usually look for when evaluating a startup. We will then discover why native development, when viewed through the lens of cost-benefit ratio, is most of the time not the best tech-stack to choose if you're building a blitzscaling company from the group up – and why cross-platform frameworks like Flutter are. Finally, we'll go through technical debt as well and what it means if you're raising a new funding round, as it is the natural downside of not going native since day 0.",
+        "presentation": "",
+        "id": "201",
+        "tags": [
+            "Mobile",
+            "Management"
+        ],
+        "speakers": [
+            {
+                "shortBio": "Uniwhere founder",
+                "photoUrl": "/images/people/gianluca_segato.jpg",
+                "name": "Gianluca Segato",
+                "sessions": null,
+                "id": "gianluca_segato",
+                "companyLogo": "/images/logos/uniwhere.png",
+                "order": 0,
+                "featured": true,
+                "company": "Uniwhere",
+                "companyLogoUrl": "/images/logos/uniwhere.png",
+                "socials": [
+                    {
+                        "link": "https://www.twitter.com/giansegato",
+                        "icon": "twitter",
+                        "name": "Twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://linkedin.com/in/giansegato",
+                        "icon": "linkedin"
+                    },
+                    {
+                        "name": "Website",
+                        "link": "http://gian.lu/",
+                        "icon": "website"
+                    }
+                ],
+                "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post."
+            }
+        ],
+        "endTime": "16:00",
+        "title": "Don't do native if you want VC money!",
+        "startTime": "15:10",
+        "complexity": "Beginner",
+        "mainTag": "Mobile",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "English"
+    },
+    "202": {
+        "presentation": "",
+        "id": "202",
+        "tags": [
+            "Mobile"
+        ],
+        "speakers": [
+            {
+                "photo": "images/people/Gazihan_Alankus.jpg",
+                "order": 1,
+                "featured": true,
+                "company": "GBot Consultants, LLC",
+                "companyLogoUrl": "/images/logos/gde.png",
+                "socials": [
+                    {
+                        "name": "Google+",
+                        "icon": "gplus",
+                        "link": "https://plus.google.com/+JanaMoudrá/posts"
+                    },
+                    {
+                        "icon": "twitter",
+                        "link": "https://twitter.com/gazialankus",
+                        "name": "Twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "icon": "linkedin",
+                        "link": "https://www.linkedin.com/in/gazihan-alankus-7720501/"
+                    }
+                ],
+                "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
+                "badges": [
+                    {
+                        "name": "gde",
+                        "description": "Dart Google Developer Expert",
+                        "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
+                    }
+                ],
+                "shortBio": "Dart GDE, Assistant Professor, Founder of GBot LLC.",
+                "photoUrl": "images/people/Gazihan_Alankus.jpg",
+                "name": "Gazihan Alankus",
+                "sessions": null,
+                "id": "gazihan_alankus"
+            }
+        ],
+        "endTime": "12:10",
+        "title": "Improve Your Asynchronous Code in Flutter",
+        "startTime": "11:20",
+        "complexity": "Intermediate",
+        "mainTag": "Mobile",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "language": "English",
+        "videoId": "",
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "You often have to create asynchronous code while developing Flutter applications. To do this effectively, essential steps are understanding the event loop, basics of Futures and Streams, async/await, async* and yield keywords and learning about a number of helper classes. Furthermore, there are a number of common patterns that arise while creating asynchronous code that is interactive. In this talk, even if you never wrote asynchronous code before, you will understand the concept, the tools and the patterns that will be useful in your asynchronous programming journey. This should help you become a better Flutter developer. "
+    },
+    "203": {
+        "id": "203",
+        "tags": [
+            "Cloud",
+            "Machine Learning"
+        ],
+        "speakers": [
+            {
+                "order": 2,
+                "featured": true,
+                "shortBio": "Rladies Coordinator Madrid & Datanauts Open Data NASA",
+                "photoUrl": "/images/people/Ines_Huertas_Freire.png",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/quierodata",
+                        "icon": "twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/ineshuertas/",
+                        "icon": "linkedin"
+                    },
+                    {
+                        "link": "https://padlet.com/ihuertas/npvnik8zhfqq",
+                        "icon": "website",
+                        "name": "Website"
+                    }
+                ],
+                "name": "Ines Huertas Freire",
+                "bio": "Ines Huertas is Big Data and Machine Learning expert, she is a coordinator in Rladies Madrid and Datanauts in the Open Data NASA Program. She participates as a speaker in different conferences, in 2015 she founded her own Big Data and ML startups, of which she was CEO for 4 years. She currently advises companies within the data area.",
+                "sessions": null,
+                "id": "ines_huertas_freire"
+            }
+        ],
+        "endTime": "12:10",
+        "title": "Deployment Tensorflow Models over Google Cloud",
+        "startTime": "11:20",
+        "complexity": "Intermediate",
+        "mainTag": "Cloud",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "English",
+        "track": {
+            "title": "Blue Track"
+        },
+        "description": "During the talk we will see a small evolution of how we can put models into production, from generating API points with R models to one of the simplest solutions using Tensorflow with Google Cloud",
+        "presentation": ""
+    },
+    "204": {
+        "startTime": "10:30",
+        "complexity": "Beginner",
+        "mainTag": "Mobile",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "English",
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "When we develop mobile apps or websites, our users can interact with them using a large selection of displays, but there is one that is often ignored: the TV one. In this talk I'll give and introduction to Google Cast, seeing how it can be used to to create a more central, prominent space for the most important content of your service. ",
+        "presentation": "",
+        "id": "204",
+        "tags": [
+            "Mobile",
+            "Web"
+        ],
+        "speakers": [
+            {
+                "order": 3,
+                "featured": true,
+                "company": "Novoda",
+                "companyLogoUrl": "/images/logos/gde.png",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/danybony_",
+                        "icon": "twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/danielebonaldo",
+                        "icon": "linkedin"
+                    },
+                    {
+                        "name": "Website",
+                        "link": "https://www.danielebonaldo.com/",
+                        "icon": "website"
+                    }
+                ],
+                "bio": "Daniele is a freelance Android developer. He’s passionate about photography and wearable technologies. Before working at Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
+                "badges": [
+                    {
+                        "name": "gde",
+                        "description": "Android, Internet of Things, Wearables Google Developer Expert",
+                        "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo"
+                    }
+                ],
+                "shortBio": "Android Developer & GDE",
+                "photoUrl": "/images/people/Daniele_Bonaldo.jpg",
+                "name": "Daniele Bonaldo",
+                "sessions": null,
+                "id": "daniele_bonaldo"
+            }
+        ],
+        "endTime": "11:20",
+        "title": "Google Cast, when one screen is not enough"
+    },
+    "205": {
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "language": "English",
+        "videoId": "",
+        "track": {
+            "title": "Green Track"
+        },
+        "description": "Managing a team is complex, sometimes it almost feels like being alone during space exploration! But no great work can be done without a great team. \"From big teams big responsibilities\", it wasn't really like that ... But what should you do to help your group achieve the goals? And what healthy practices should you introduce to make the workplace a little better?",
+        "presentation": "",
+        "id": "205",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            {
+                "order": 4,
+                "featured": false,
+                "shortBio": "Deputy CTO @Liscor (Gruppo @Lutech)",
+                "company": "Liscor (Gruppo Lutech)",
+                "photoUrl": "/images/people/Michel_Murabito.jpg",
+                "companyLogoUrl": "/images/logos/lutech.png",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/michelmurabito",
+                        "icon": "twitter"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    },
+                    {
+                        "link": "https://medium.com/@mich.murabito/",
+                        "icon": "website",
+                        "name": "Website"
+                    }
+                ],
+                "name": "Michel Murabito",
+                "bio": "Web Developer By Day, Superhero Wannabe By Night!",
+                "sessions": null,
+                "id": "michel_murabito"
+            }
+        ],
+        "endTime": "12:10",
+        "title": "Manage Teams, a space adventure!",
+        "startTime": "11:20",
+        "complexity": "Intermediate",
+        "mainTag": "Management",
+        "dateReadable": "November 16"
+    },
+    "206": {
+        "mainTag": "Cloud",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "hh": 0,
+            "mm": 50
+        },
+        "language": "English",
+        "videoId": "",
+        "track": {
+            "title": "Blue Track"
+        },
+        "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions.",
+        "presentation": "",
+        "id": "206",
+        "tags": [
+            "Cloud"
+        ],
+        "speakers": [
+            {
+                "id": "vasudev_maduri",
+                "order": 5,
+                "featured": false,
+                "shortBio": "Technology Enthusiasit, Machine Learning developer",
+                "company": "Hitachi Consulting",
+                "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
+                "companyLogoUrl": "/images/logos/hitachi.png",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/devmaduri",
+                        "icon": "twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/vasudevmaduri/",
+                        "icon": "linkedin"
+                    },
+                    {
+                        "name": "Website",
+                        "link": "http://deva4u.wordpress.com",
+                        "icon": "website"
+                    }
+                ],
+                "name": "Vasudev Maduri",
+                "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.",
+                "sessions": null
+            }
+        ],
+        "endTime": "15:10",
+        "title": "A brave new world. \"Serverless\" computing on Google Cloud.",
+        "startTime": "14:20",
+        "complexity": "Intermediate"
+    },
+    "207": {
+        "complexity": "Intermediate",
+        "mainTag": "Management",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "English",
+        "track": {
+            "title": "Green Track"
+        },
+        "description": "Event Sourcing architecture is all the rage: it works well with DDD, enables scalability, and you can use all the coolest and newest technologies! But after you've had fun writing the code, and past the excitement of the launch party, what happens? After 100 days in production, what problems may you encounter, and what you should have anticipated, during development, to avoid them?",
+        "presentation": "",
+        "id": "207",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            {
+                "shortBio": "Passionate developer",
+                "company": "Aton",
+                "photoUrl": "/images/people/Michele_Mauro.jpg",
+                "companyLogoUrl": "/images/logos/aton.svg",
+                "socials": [
+                    {
+                        "link": "https://twitter.com/michelemauro",
+                        "icon": "twitter",
+                        "name": "Twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/mauromichele/",
+                        "icon": "linkedin"
+                    }
+                ],
+                "name": "Michele Mauro",
+                "bio": "Passionate developer, from more years that I want to admit. From Pascal to Scala, through Perl, Java, and a lot of other languages and technologies, I've seen many. And often I like to chat about it.",
+                "sessions": null,
+                "id": "michele_mauro",
+                "order": 6,
+                "featured": false
+            }
+        ],
+        "endTime": "11:20",
+        "title": "5 things you may want to know before an Event Sourcing project",
+        "startTime": "10:30"
+    },
+    "208": {
+        "id": "208",
+        "tags": [
+            "Machine Learning",
+            "Cloud"
+        ],
+        "speakers": [
+            {
+                "id": "umberto_mattei",
+                "order": 7,
+                "featured": true,
+                "shortBio": "Customer Engineer at Google Cloud",
+                "company": "Google",
+                "photoUrl": "/images/people/Umberto_Mattei.png",
+                "companyLogoUrl": "/images/logos/google.svg",
+                "socials": [
+                    {
+                        "link": "https://www.linkedin.com/in/umbertomattei/",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    }
+                ],
+                "name": "Umberto Mattei",
+                "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform.",
+                "sessions": null
+            }
+        ],
+        "endTime": "11:20",
+        "title": "Machine Learning on Google Cloud: From APIs to AI Platform",
+        "startTime": "10:30",
+        "complexity": "Beginner",
+        "mainTag": "Machine Learning",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "hh": 0,
+            "mm": 50
+        },
+        "language": "English",
+        "videoId": "",
+        "track": {
+            "title": "Blue Track"
+        },
+        "description": "Ever wondered which technology sits behind the Not Hotdog app from HBO's TV series Silicon Valley? If you wish to hear more, join us for a session on Machine Learning basics and how to do Machine Learning on Google Cloud.",
+        "presentation": ""
+    },
+    "209": {
+        "startTime": "12:10",
+        "complexity": "Intermediate",
+        "mainTag": "Machine Learning",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "English",
+        "track": {
+            "title": "Blue Track"
+        },
+        "description": "Deep Learning can be used also for predictions based on tabular data, the data you usually find in databases and in tables. In this sessions, we will discuss how such an approach works and how it is competitive in respect of more popular machine learning algorithms such as gradient boosting.",
+        "presentation": "",
+        "id": "209",
+        "tags": [
+            "Machine Learning"
+        ],
+        "speakers": [
+            {
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/lucamassaron",
+                        "icon": "twitter"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/lmassaron/",
+                        "icon": "linkedin"
+                    }
+                ],
+                "name": "Luca Massaron",
+                "bio": "Data scientist transforming data into smarter artifacts. Author of For Dummies books on AI, machine learning and algorithms. Kaggle master.",
+                "sessions": null,
+                "id": "luca_massaron",
+                "badges": [
+                    {
+                        "name": "gde",
+                        "description": "Machine Learning Google Developer Expert",
+                        "link": "https://developers.google.com/community/experts/directory/profile/profile-luca_massaron"
+                    }
+                ],
+                "order": 8,
+                "featured": true,
+                "shortBio": "Google Developer Expert",
+                "companyLogoUrl": "/images/logos/gde.png",
+                "photoUrl": "/images/people/Luca_Massaron.jpg"
+            }
+        ],
+        "endTime": "13:00",
+        "title": "Deep Learning for tabular data"
+    },
+    "210": {
+        "day": "2019-11-16",
+        "duration": {
+            "hh": 1,
+            "mm": 40
+        },
+        "videoId": "",
+        "language": "English",
+        "track": {
+            "title": "Workshop"
+        },
+        "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills. An additional registration is required to attend to this workshop. Each participant must bring their own PC.",
+        "backgroundColor": "#fbe5cc",
+        "presentation": "",
+        "id": "210",
+        "tags": [
+            "Workshop"
+        ],
+        "speakers": [
+            {
+                "photoUrl": "/images/people/Alessandro_Pezzato.jpg",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/alepezzato",
+                        "icon": "twitter"
+                    },
+                    {
+                        "link": "https://linkedin.com/in/alessandropezzato",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    },
+                    {
+                        "name": "Website",
+                        "link": "https://pezzato.net",
+                        "icon": "website"
+                    }
+                ],
+                "name": "Alessandro Pezzato",
+                "bio": "Coding for passion since I was a child, now working as C++ trainer and developer.",
+                "sessions": null,
+                "id": "alessandro_pezzato",
+                "order": 10,
+                "featured": false,
+                "shortBio": "Freelance C++ developer and trainer"
+            }
+        ],
+        "endTime": "16:00",
+        "title": "Coding Gym",
+        "startTime": "14:20",
+        "ticketUrl": "https://forms.gle/Vj82cip2UjMgmc3r7",
+        "complexity": "Beginner",
+        "mainTag": "Workshop",
+        "dateReadable": "November 16"
+    },
+    "211": {
+        "id": "211",
+        "tags": [
+            "Code Quality"
+        ],
+        "speakers": [
+            {
+                "sessions": null,
+                "id": "thomas_rossetto",
+                "order": 9,
+                "featured": false,
+                "shortBio": "Software Developer @ Seesaw | Community Lead @ Programmers in Padua",
+                "company": "Seesaw",
+                "photoUrl": "/images/people/Thomas_Rossetto.jpg",
+                "companyLogoUrl": "/images/logos/seesaw.png",
+                "socials": [
+                    {
+                        "link": "https://twitter.com/rosse91",
+                        "icon": "twitter",
+                        "name": "Twitter"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/thomasrossetto/",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    }
+                ],
+                "name": "Thomas Rossetto",
+                "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover."
+            }
+        ],
+        "endTime": "17:20",
+        "title": "Ehi, leggi qui, questo talk è di qualità (ed è GRATIS)!",
+        "startTime": "16:30",
+        "complexity": "Intermediate",
+        "mainTag": "Code Quality",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "videoId": "",
+        "language": "Italian",
+        "track": {
+            "title": "Blue Track"
+        },
+        "description": "Perfetto, ora ho la tua attenzione, giuro che non scriverò SOLDI da nessuna parte 🙂 Ma veniamo a noi, se dico \"qualità\" ti verranno in mente un sacco di cose: probabilmente molto fumose o legate a qualcosa di noioso, come ad esempio le sigle ISOqualcosa. In questo talk però voglio farti fare un tour ( di qualità ) sulla qualità del codice, e raccontarti la mia esperienza su quali tools e approcci abbiamo usato per far si che il nostro lavoro diventi più facile, permettendoci di concentrarci solo sulle cose veramente importanti per noi e per i nostri clienti. Quello che ti porterai a casa sarà un racconto che partirà dai tools fino ad arrivare alla qualità, con un po' di spunti da poter usare tutti i giorni.",
+        "presentation": ""
+    },
+    "212": {
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "language": "English",
+        "videoId": "",
+        "track": {
+            "title": "Green Track"
+        },
+        "description": "I’m a remote worker since a while. I went through all ups and downs and I learnt few things along the road. These are the things that I would have liked to know before starting.",
+        "presentation": "",
+        "id": "212",
+        "tags": [
+            "Remote Working",
+            "Management"
+        ],
+        "speakers": [
+            {
+                "shortBio": "Senior Mobile Engineer at Voxnest",
+                "company": "Voxnest",
+                "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
+                "companyLogoUrl": "/images/logos/voxnest.png",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/DrAL3X",
+                        "icon": "twitter"
+                    },
+                    {
+                        "link": "http://linkedin.com/in/alessandrocalzavara",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    },
+                    {
+                        "name": "Website",
+                        "link": "https://alessandrocalzavara.com/",
+                        "icon": "website"
+                    }
+                ],
+                "name": "Alessandro Calzavara",
+                "bio": "Senior software engineer specialized in mobile development. Curious about too many things",
+                "sessions": null,
+                "id": "alessandro_calzavara",
+                "order": 11,
+                "featured": true
+            }
+        ],
+        "endTime": "13:00",
+        "title": "Remote Working: 9 years of lessons learnt",
+        "startTime": "12:10",
+        "complexity": "Beginner",
+        "mainTag": "Remote Working",
+        "dateReadable": "November 16"
+    },
+    "213": {
+        "id": "213",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            {
+                "order": 12,
+                "featured": false,
+                "shortBio": "CTO @Uqido",
+                "company": "Uqido",
+                "photoUrl": "/images/people/Daniel_Pettenon.jpg",
+                "companyLogoUrl": "/images/logos/UQIDO.svg",
+                "socials": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/d_pette",
+                        "icon": "twitter"
+                    },
+                    {
+                        "link": "https://www.linkedin.com/in/daniel-pettenon-3ba44b30/",
+                        "icon": "linkedin",
+                        "name": "LinkedIn"
+                    },
+                    {
+                        "link": "https://tech.uqido.com/",
+                        "icon": "website",
+                        "name": "Website"
+                    }
+                ],
+                "name": "Daniel Pettenon",
+                "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale.",
+                "sessions": null,
+                "id": "daniel_pettenon"
+            }
+        ],
+        "endTime": "17:20",
+        "title": "One-on-One meeting: strumento per un software migliore",
+        "startTime": "16:30",
+        "complexity": "Beginner",
+        "mainTag": "Management",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "hh": 0,
+            "mm": 50
+        },
+        "language": "Italian",
+        "videoId": "",
+        "track": {
+            "title": "Green Track"
+        },
+        "description": "Gli one on one meeting sono colloqui individuali nei quali il team leader e team member si trovano per capire l’andamento di un progetto o, più in generale, della vita aziendale del team member. vengono fatti da tantissime aziende in ambito software con diverse cadenze, durate e regole. L’obiettivo di questi meeting è quello di individuare gli ostacoli e le necessità che riguardano il team member e che possono essere smarcate per migliorare la vita aziendale. In questa sessione racconto come abbiamo introdotto questa pratica in azienda, che risultati ha portato e come abbiamo fatto a far entrare la cultura del feedback in azienda.",
+        "presentation": ""
+    },
+    "232": {
+        "mainTag": "General",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "icon": "registration",
+        "duration": {
+            "hh": 0,
+            "mm": 30
+        },
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "Get your badge and enjoy talking with tech edicts around",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+        "id": "232",
+        "speakers": [],
+        "title": "Registration",
+        "endTime": "10:00",
+        "startTime": "09:30"
+    },
+    "233": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "id": "233",
+        "speakers": [],
+        "title": "Lunch",
+        "endTime": "14:20",
+        "startTime": "13:00",
+        "mainTag": "General",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "icon": "lunch",
+        "duration": {
+            "hh": 1,
+            "mm": 20
+        },
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "Foooooooood!"
+    },
+    "234": {
+        "mainTag": "General",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "icon": "coffee-break",
+        "duration": {
+            "mm": 30,
+            "hh": 0
+        },
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "Coffeeeeeee!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+        "id": "234",
+        "speakers": [],
+        "title": "Coffee break",
+        "endTime": "16:30",
+        "startTime": "16:00"
+    },
+    "236": {
+        "id": "236",
+        "speakers": [],
+        "endTime": "10:30",
+        "title": "GDG DevFest Veneto 2019 Opening",
+        "startTime": "10:00",
+        "mainTag": "General",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "icon": "opening",
+        "duration": {
+            "hh": 0,
+            "mm": 30
+        },
+        "language": "English",
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "Official start of the conference. Greetings from the organizers, presentation of the day.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b"
+    },
+    "238": {
+        "mainTag": "General",
+        "dateReadable": "November 16",
+        "day": "2019-11-16",
+        "duration": {
+            "mm": 40,
+            "hh": 0
+        },
+        "description": "Make sure you won't miss closing ceremony!",
+        "track": {
+            "title": "Yellow Track"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
+        "id": "238",
+        "speakers": [],
+        "title": "Conference closing",
+        "endTime": "18:00",
+        "startTime": "17:20"
+    },
+    "239": {
+        "id": "239",
+        "speakers": [],
+        "duration": {
+            "mm": 50,
+            "hh": 0
+        },
+        "endTime": "17:20",
+        "title": "TBD",
+        "startTime": "16:30",
+        "track": {
+            "title": "Yellow Track"
+        },
+        "description": "More details soon!",
+        "dateReadable": "November 16",
+        "mainTag": "General",
+        "day": "2019-11-16"
+    },
+    "240": {
+        "dateReadable": "November 16",
+        "mainTag": "General",
+        "day": "2019-11-16",
+        "id": "240",
+        "speakers": [],
+        "duration": {
+            "hh": 0,
+            "mm": 50
+        },
+        "endTime": "17:20",
+        "title": "",
+        "startTime": "16:30",
+        "track": {
+            "title": "Workshop"
+        },
+        "description": ""
+    }
+}

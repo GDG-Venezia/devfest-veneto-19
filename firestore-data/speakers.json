@@ -206,6 +206,8 @@
         "featured": false,
         "shortBio": "Passionate developer",
         "photoUrl": "/images/people/Michele_Mauro.jpg",
+        "company": "Aton",
+        "companyLogoUrl": "/images/logos/aton.svg",
         "socials": [
             {
                 "link": "https://twitter.com/michelemauro",
@@ -340,5 +342,39 @@
         ],
         "name": "Daniel Pettenon",
         "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale."
+    },
+    "marcello_bertoli": {
+        "order": 13,
+        "featured": false,
+        "shortBio": "Uqido, XR Developer, Unity, AR",
+        "company": "Uqido",
+        "photoUrl": "/images/people/Marcello_Bertoli.png",
+        "companyLogoUrl": "/images/logos/UQIDO.svg",
+        "socials": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/marcello-bertoli-b40907161/",
+                "icon": "linkedin"
+            }
+        ],
+        "name": "Marcello Bertoli",
+        "bio": "After the degree in Computer Science at the University of Modena and Reggio Emilia, Marcello followed his videogame passion and got a master's degree at the Milano Statale University as a video game developer. For more than a year he's been working at Uqido as an XR Developer."
+    },
+    "paolo_bertuzzo": {
+        "order": 14,
+        "featured": false,
+        "shortBio": "Technical responsible at Ennova Research",
+        "company": "Ennova Research",
+        "photoUrl": "/images/people/Paolo_Bertuzzo.jpg",
+        "companyLogoUrl": "/images/logos/ennova.svg",
+        "socials": [
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/paolo-bertuzzo-120b7735",
+                "icon": "linkedin"
+            }
+        ],
+        "name": "Paolo Bertuzzo",
+        "bio": "Paolo Bertuzzo is a senior software engineer and technical responsible at Ennova Research Venice developing full stack and architectural solutions based on NodeJS, Java, Python and NET."
     }
 }
