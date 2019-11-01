@@ -241,6 +241,7 @@
       }
 
       _onTicketTap(e) {
+        fbq('track', 'Purchase');
         if (e.model.ticket.soldOut || !e.model.ticket.available) {
           e.preventDefault();
           e.stopPropagation();
