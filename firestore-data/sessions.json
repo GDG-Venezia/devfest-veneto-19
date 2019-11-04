@@ -1,5 +1,6 @@
 {
     "201": {
+        "complexity": "Beginner",
         "tags": [
             "Mobile",
             "Management"
@@ -11,8 +12,7 @@
         "videoId": "",
         "language": "English",
         "description": "All of us heard about this magical creature living in the product space called MVP. Or at least we've heard some manager babbling about it. In this talk, we'll discuss the key tech requirements of a Minimum Viable Product, from metrics drivers to fast delivery, in relation to what investors usually look for when evaluating a startup. We will then discover why native development, when viewed through the lens of cost-benefit ratio, is most of the time not the best tech-stack to choose if you're building a blitzscaling company from the group up – and why cross-platform frameworks like Flutter are. Finally, we'll go through technical debt as well and what it means if you're raising a new funding round, as it is the natural downside of not going native since day 0.",
-        "presentation": "",
-        "complexity": "Beginner"
+        "presentation": ""
     },
     "202": {
         "tags": [
@@ -25,21 +25,6 @@
         "videoId": "",
         "language": "English",
         "description": "You often have to create asynchronous code while developing Flutter applications. To do this effectively, essential steps are understanding the event loop, basics of Futures and Streams, async/await, async* and yield keywords and learning about a number of helper classes. Furthermore, there are a number of common patterns that arise while creating asynchronous code that is interactive. In this talk, even if you never wrote asynchronous code before, you will understand the concept, the tools and the patterns that will be useful in your asynchronous programming journey. This should help you become a better Flutter developer. ",
-        "presentation": "",
-        "complexity": "Intermediate"
-    },
-    "203": {
-        "tags": [
-            "Cloud",
-            "Machine Learning"
-        ],
-        "speakers": [
-            "ines_huertas_freire"
-        ],
-        "title": "Deployment Tensorflow Models over Google Cloud",
-        "language": "English",
-        "videoId": "",
-        "description": "During the talk we will see a small evolution of how we can put models into production, from generating API points with R models to one of the simplest solutions using Tensorflow with Google Cloud",
         "presentation": "",
         "complexity": "Intermediate"
     },
@@ -59,6 +44,9 @@
         "complexity": "Beginner"
     },
     "205": {
+        "title": "Manage Teams, a space adventure!",
+        "videoId": "",
+        "language": "English",
         "description": "Managing a team is complex, sometimes it almost feels like being alone during space exploration! But no great work can be done without a great team. \"From big teams big responsibilities\", it wasn't really like that ... But what should you do to help your group achieve the goals? And what healthy practices should you introduce to make the workplace a little better?",
         "presentation": "",
         "complexity": "Intermediate",
@@ -67,14 +55,9 @@
         ],
         "speakers": [
             "michel_murabito"
-        ],
-        "title": "Manage Teams, a space adventure!",
-        "language": "English",
-        "videoId": ""
+        ]
     },
     "206": {
-        "presentation": "",
-        "complexity": "Intermediate",
         "tags": [
             "Cloud"
         ],
@@ -84,41 +67,40 @@
         "title": "A brave new world. \"Serverless\" computing on Google Cloud.",
         "videoId": "",
         "language": "English",
-        "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions."
+        "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions.",
+        "presentation": "",
+        "complexity": "Intermediate"
     },
     "207": {
-        "tags": [
-            "Management"
-        ],
-        "speakers": [
-            "michele_mauro"
-        ],
         "title": "5 things you may want to know before an Event Sourcing project",
         "videoId": "",
         "language": "English",
         "description": "Event Sourcing architecture is all the rage: it works well with DDD, enables scalability, and you can use all the coolest and newest technologies! But after you've had fun writing the code, and past the excitement of the launch party, what happens? After 100 days in production, what problems may you encounter, and what you should have anticipated, during development, to avoid them?",
         "presentation": "",
-        "complexity": "Intermediate"
+        "complexity": "Intermediate",
+        "tags": [
+            "Management"
+        ],
+        "speakers": [
+            "michele_mauro"
+        ]
     },
     "208": {
-        "title": "Machine Learning on Google Cloud: From APIs to AI Platform",
-        "videoId": "",
-        "language": "English",
-        "description": "Ever wondered which technology sits behind the Not Hotdog app from HBO's TV series Silicon Valley? If you wish to hear more, join us for a session on Machine Learning basics and how to do Machine Learning on Google Cloud.",
-        "presentation": "",
-        "complexity": "Beginner",
         "tags": [
             "Machine Learning",
             "Cloud"
         ],
         "speakers": [
             "umberto_mattei"
-        ]
+        ],
+        "title": "Machine Learning on Google Cloud: From APIs to AI Platform",
+        "videoId": "",
+        "language": "English",
+        "description": "Ever wondered which technology sits behind the Not Hotdog app from HBO's TV series Silicon Valley? If you wish to hear more, join us for a session on Machine Learning basics and how to do Machine Learning on Google Cloud.",
+        "presentation": "",
+        "complexity": "Beginner"
     },
     "209": {
-        "description": "Deep Learning can be used also for predictions based on tabular data, the data you usually find in databases and in tables. In this sessions, we will discuss how such an approach works and how it is competitive in respect of more popular machine learning algorithms such as gradient boosting.",
-        "presentation": "",
-        "complexity": "Intermediate",
         "tags": [
             "Machine Learning"
         ],
@@ -127,7 +109,10 @@
         ],
         "title": "Deep Learning for tabular data",
         "videoId": "",
-        "language": "English"
+        "language": "English",
+        "description": "Deep Learning can be used also for predictions based on tabular data, the data you usually find in databases and in tables. In this sessions, we will discuss how such an approach works and how it is competitive in respect of more popular machine learning algorithms such as gradient boosting.",
+        "presentation": "",
+        "complexity": "Intermediate"
     },
     "210": {
         "tags": [
@@ -137,15 +122,16 @@
             "alessandro_pezzato"
         ],
         "title": "Coding Gym",
-        "videoId": "",
         "language": "English",
+        "videoId": "",
         "description": "Coding Gym is a non-competitive programming lab format open to any language and developed for self-led improvement in technical and communication skills. An additional registration is required to attend to this workshop. Each participant must bring their own PC.",
-        "presentation": "",
-        "complexity": "Beginner",
         "backgroundColor": "#fbe5cc",
-        "ticketUrl": "https://forms.gle/Vj82cip2UjMgmc3r7"
+        "presentation": "",
+        "ticketUrl": "https://forms.gle/Vj82cip2UjMgmc3r7",
+        "complexity": "Beginner"
     },
     "211": {
+        "title": "Ehi, leggi qui, questo talk è di qualità (ed è GRATIS)!",
         "videoId": "",
         "language": "Italian",
         "description": "Perfetto, ora ho la tua attenzione, giuro che non scriverò SOLDI da nessuna parte 🙂 Ma veniamo a noi, se dico \"qualità\" ti verranno in mente un sacco di cose: probabilmente molto fumose o legate a qualcosa di noioso, come ad esempio le sigle ISOqualcosa. In questo talk però voglio farti fare un tour ( di qualità ) sulla qualità del codice, e raccontarti la mia esperienza su quali tools e approcci abbiamo usato per far si che il nostro lavoro diventi più facile, permettendoci di concentrarci solo sulle cose veramente importanti per noi e per i nostri clienti. Quello che ti porterai a casa sarà un racconto che partirà dai tools fino ad arrivare alla qualità, con un po' di spunti da poter usare tutti i giorni.",
@@ -156,14 +142,9 @@
         ],
         "speakers": [
             "thomas_rossetto"
-        ],
-        "title": "Ehi, leggi qui, questo talk è di qualità (ed è GRATIS)!"
+        ]
     },
     "212": {
-        "videoId": "",
-        "language": "English",
-        "description": "I’m a remote worker since a while. I went through all ups and downs and I learnt few things along the road. These are the things that I would have liked to know before starting.",
-        "presentation": "",
         "complexity": "Beginner",
         "tags": [
             "Remote Working",
@@ -172,42 +153,41 @@
         "speakers": [
             "alessandro_calzavara"
         ],
-        "title": "Remote Working: 9 years of lessons learnt"
+        "title": "Remote Working: 9 years of lessons learnt",
+        "videoId": "",
+        "language": "English",
+        "description": "I’m a remote worker since a while. I went through all ups and downs and I learnt few things along the road. These are the things that I would have liked to know before starting.",
+        "presentation": ""
     },
     "213": {
-        "videoId": "",
-        "language": "Italian",
-        "description": "Gli one on one meeting sono colloqui individuali nei quali il team leader e team member si trovano per capire l’andamento di un progetto o, più in generale, della vita aziendale del team member. vengono fatti da tantissime aziende in ambito software con diverse cadenze, durate e regole. L’obiettivo di questi meeting è quello di individuare gli ostacoli e le necessità che riguardano il team member e che possono essere smarcate per migliorare la vita aziendale. In questa sessione racconto come abbiamo introdotto questa pratica in azienda, che risultati ha portato e come abbiamo fatto a far entrare la cultura del feedback in azienda.",
-        "presentation": "",
-        "complexity": "Beginner",
         "tags": [
             "Management"
         ],
         "speakers": [
             "daniel_pettenon"
         ],
-        "title": "One-on-One meeting: strumento per un software migliore"
+        "title": "One-on-One meeting: strumento per un software migliore",
+        "videoId": "",
+        "language": "Italian",
+        "description": "Gli one on one meeting sono colloqui individuali nei quali il team leader e team member si trovano per capire l’andamento di un progetto o, più in generale, della vita aziendale del team member. vengono fatti da tantissime aziende in ambito software con diverse cadenze, durate e regole. L’obiettivo di questi meeting è quello di individuare gli ostacoli e le necessità che riguardano il team member e che possono essere smarcate per migliorare la vita aziendale. In questa sessione racconto come abbiamo introdotto questa pratica in azienda, che risultati ha portato e come abbiamo fatto a far entrare la cultura del feedback in azienda.",
+        "presentation": "",
+        "complexity": "Beginner"
     },
     "214": {
-        "videoId": "",
-        "language": "English",
-        "description": "An introduction to AR with Unity, with the aim to give some tips and warns about risks and problems",
-        "presentation": "",
-        "complexity": "Beginner",
         "tags": [
             "AR"
         ],
         "speakers": [
             "marcello_bertoli"
         ],
-        "title": "AR 101 with Unity"
+        "title": "AR 101 with Unity",
+        "videoId": "",
+        "language": "English",
+        "description": "An introduction to AR with Unity, with the aim to give some tips and warns about risks and problems",
+        "presentation": "",
+        "complexity": "Beginner"
     },
     "215": {
-        "videoId": "",
-        "language": "Italian",
-        "description": "Google BigQuery Machine Learning per la previsione di eventi e l'uso di tecnologie di Machine Learning legate alla previsione di fatti legati all'iterazione uomo-macchina. In questa sessione si vedrà come si possono prevedere i risultati delle partite di calcio balilla raccogliendo i dati storici dai sensori collegati al calcetto ed elaborando un modello che possa prevedere le quote di vincita della prossima partita basandosi sui risultati storici raccolti.",
-        "presentation": "",
-        "complexity": "Intermediate",
         "tags": [
             "Machine Learning",
             "Cloud"
@@ -215,13 +195,75 @@
         "speakers": [
             "paolo_bertuzzo"
         ],
-        "title": "Regressione lineare con Google BigQuery ML"
+        "title": "Regressione lineare con Google BigQuery ML",
+        "videoId": "",
+        "language": "Italian",
+        "description": "Google BigQuery Machine Learning per la previsione di eventi e l'uso di tecnologie di Machine Learning legate alla previsione di fatti legati all'iterazione uomo-macchina. In questa sessione si vedrà come si possono prevedere i risultati delle partite di calcio balilla raccogliendo i dati storici dai sensori collegati al calcetto ed elaborando un modello che possa prevedere le quote di vincita della prossima partita basandosi sui risultati storici raccolti.",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "216": {
+        "tags": [
+            "Mobile"
+        ],
+        "speakers": [
+            "filippo_beraldo"
+        ],
+        "title": "The CLEAN cut",
+        "videoId": "",
+        "language": "English",
+        "description": "Nowadays having a proper architecture in any software is crucial to have a healthy codebase that is manageable throughout the entire lifetime of a product. Some Android specific architectural concepts have been around for quite a while and some of them are very popular. While evolving the platform-specific architectures has had a lot of focus from Google and gained developers' interest, less attention has been put on how to properly build architectured software from the ground up. It is now very common to have projects which rely on legacy untested pieces of software, built android-ages ago which represent a productivity bottleneck and pose a threat to code quality, software reliability, and ultimately to revenue. CLEAN has been around in the software industry for a long period already, but just recently it has gained traction as a means to develop fully testable, scalable and reliable mobile apps. In this talk, we'll run through a strategy about how to transition between a real-world legacy codebase towards a modularized, CLEAN architectured, unit-testable implementation of a mobile app.",
+        "presentation": "",
+        "complexity": "Expert"
+    },
+    "217": {
+        "tags": [
+            "Mobile",
+            "Robotics"
+        ],
+        "speakers": [
+            "alvise_spano"
+        ],
+        "title": "Type-driven Cross-Programming Android and LEGO Mindstorms",
+        "videoId": "",
+        "language": "English",
+        "description": "Legodroid is a Java library for Android aimed at cross-programming LEGO Mindstorms robots via an Android device in a transparent and seamless way. From a programmer's perspective, the library imposes a strict yet convenient paradigm for interacting with motors and sensors, which guide developers in writing correct code with less runtime errors thanks to a rigid discipline over types.",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "218": {
+        "tags": [
+            "Performance"
+        ],
+        "speakers": [
+            "andrea_marin"
+        ],
+        "title": "Size does matter for performance: the problem of optimal scheduling",
+        "videoId": "",
+        "language": "English",
+        "description": "The implementation of queues is required every time a software or hardware component needs to store the elements on which it needs to perform some work. Common examples are queries to database systems, requests to (and replies from) web servers, packets at a router and so on. In a wide range of implementations of queues, the first-come-first served disciple is chosen to decide which element will be the next to serve. Although this seems a natural choice that does not have an impact on the system performance, we will show that this is not the case and that much lower response times can be achieved for several practical cases.",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "219": {
+        "tags": [
+            "git"
+        ],
+        "speakers": [
+            "michele_franzin"
+        ],
+        "title": "unleashing git power",
+        "videoId": "",
+        "language": "Italian",
+        "description": "Sono sempre di più gli sviluppatori che usano sistemi per il controllo di versione del software e tra questi strumenti Git è diventato uno standard de-facto. Cloni, Pull(i), Commit(ti), push(i) ...niente di più semplice, vero? ...ma ti è mai capitato di aggiungere un commit sul branch sbagliato (ed ovviamente push-ato sul repository remoto)? ...o di voler correggere il tuo codice con un singolo commit preso di un branch completamente diverso (ma niente altro)? ...mai trovato intrappolato in un conflitto di merge mentre git ti trascina nella tana del bianconiglio? Niente paura, abbiamo un paio di comandi esotici che renderanno più semplice la tua vita da programmatore (e quella dei tuoi colleghi).",
+        "presentation": "",
+        "complexity": "Intermediate"
     },
     "232": {
+        "icon": "registration",
         "title": "Registration",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-        "description": "Get your badge and enjoy talking with tech edicts around",
-        "icon": "registration"
+        "description": "Get your badge and enjoy talking with tech edicts around"
     },
     "233": {
         "description": "Foooooooood!",

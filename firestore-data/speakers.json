@@ -1,16 +1,46 @@
 {
+    "alessandro_calzavara": {
+        "order": 11,
+        "featured": true,
+        "shortBio": "Senior Mobile Engineer at Voxnest",
+        "company": "Voxnest",
+        "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
+        "companyLogoUrl": "/images/logos/voxnest.png",
+        "socials": [
+            {
+                "link": "https://twitter.com/DrAL3X",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "link": "http://linkedin.com/in/alessandrocalzavara",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://alessandrocalzavara.com/",
+                "icon": "website",
+                "name": "Website"
+            }
+        ],
+        "name": "Alessandro Calzavara",
+        "bio": "Senior software engineer specialized in mobile development. Curious about too many things"
+    },
     "alessandro_pezzato": {
+        "order": 10,
+        "featured": false,
+        "shortBio": "Freelance C++ developer and trainer",
         "photoUrl": "/images/people/Alessandro_Pezzato.jpg",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/alepezzato",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://linkedin.com/in/alessandropezzato",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
                 "link": "https://pezzato.net",
@@ -19,46 +49,98 @@
             }
         ],
         "name": "Alessandro Pezzato",
-        "bio": "Coding for passion since I was a child, now working as C++ trainer and developer.",
-        "order": 10,
+        "bio": "Coding for passion since I was a child, now working as C++ trainer and developer."
+    },
+    "daniel_pettenon": {
+        "order": 12,
         "featured": false,
-        "shortBio": "Freelance C++ developer and trainer"
+        "shortBio": "CTO @Uqido",
+        "company": "Uqido",
+        "photoUrl": "/images/people/Daniel_Pettenon.jpg",
+        "companyLogoUrl": "/images/logos/UQIDO.svg",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/d_pette",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/daniel-pettenon-3ba44b30/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "name": "Website",
+                "link": "https://tech.uqido.com/",
+                "icon": "website"
+            }
+        ],
+        "name": "Daniel Pettenon",
+        "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale."
     },
     "daniele_bonaldo": {
-        "order": 3,
-        "featured": true,
-        "shortBio": "Android Developer & GDE",
         "company": "Novoda",
         "photoUrl": "/images/people/Daniele_Bonaldo.jpg",
         "companyLogoUrl": "/images/logos/gde.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/danybony_",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/danielebonaldo",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             },
             {
-                "name": "Website",
                 "link": "https://www.danielebonaldo.com/",
-                "icon": "website"
+                "icon": "website",
+                "name": "Website"
             }
         ],
         "name": "Daniele Bonaldo",
         "bio": "Daniele is a freelance Android developer. He’s passionate about photography and wearable technologies. Before working at Novoda, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market. International conference speaker and Google Developer Expert, now he loves to work on everything related to the Android ecosystem, from Chromecast to Wear to smart mirrors.",
         "badges": [
             {
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo",
                 "name": "gde",
-                "description": "Android, Internet of Things, Wearables Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-daniele_bonaldo"
+                "description": "Android, Internet of Things, Wearables Google Developer Expert"
             }
-        ]
+        ],
+        "order": 3,
+        "featured": true,
+        "shortBio": "Android Developer & GDE"
+    },
+    "filippo_beraldo": {
+        "shortBio": "Mobile software engineer",
+        "photoUrl": "/images/people/Filippo_Beraldo.jpg",
+        "socials": [
+            {
+                "link": "https://twitter.com/beraldofilippo",
+                "icon": "twitter",
+                "name": "Twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/beraldof/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            }
+        ],
+        "name": "Filippo Beraldo",
+        "bio": "I have been worked on several projects during the last few years, starting from a small-sized one, up until developing large-scale apps at ASOS.com in London, UK. I will soon be joining Treatwell.",
+        "order": 15,
+        "featured": false
     },
     "gazihan_alankus": {
+        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
+        "badges": [
+            {
+                "description": "Dart Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus",
+                "name": "gde"
+            }
+        ],
         "photo": "images/people/Gazihan_Alankus.jpg",
         "order": 1,
         "featured": true,
@@ -83,15 +165,7 @@
                 "link": "https://www.linkedin.com/in/gazihan-alankus-7720501/"
             }
         ],
-        "name": "Gazihan Alankus",
-        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
-        "badges": [
-            {
-                "name": "gde",
-                "description": "Dart Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
-            }
-        ]
+        "name": "Gazihan Alankus"
     },
     "gianluca_segato": {
         "companyLogo": "/images/logos/uniwhere.png",
@@ -108,9 +182,9 @@
                 "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://linkedin.com/in/giansegato",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             },
             {
                 "name": "Website",
@@ -121,32 +195,10 @@
         "name": "Gianluca Segato",
         "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post."
     },
-    "ines_huertas_freire": {
-        "order": 2,
-        "featured": true,
-        "shortBio": "Rladies Coordinator Madrid & Datanauts Open Data NASA",
-        "photoUrl": "/images/people/Ines_Huertas_Freire.png",
-        "socials": [
-            {
-                "link": "https://twitter.com/quierodata",
-                "icon": "twitter",
-                "name": "Twitter"
-            },
-            {
-                "link": "https://www.linkedin.com/in/ineshuertas/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
-            },
-            {
-                "name": "Website",
-                "link": "https://padlet.com/ihuertas/npvnik8zhfqq",
-                "icon": "website"
-            }
-        ],
-        "name": "Ines Huertas Freire",
-        "bio": "Ines Huertas is Big Data and Machine Learning expert, she is a coordinator in Rladies Madrid and Datanauts in the Open Data NASA Program. She participates as a speaker in different conferences, in 2015 she founded her own Big Data and ML startups, of which she was CEO for 4 years. She currently advises companies within the data area."
-    },
     "luca_massaron": {
+        "order": 8,
+        "featured": true,
+        "shortBio": "Google Developer Expert",
         "photoUrl": "/images/people/Luca_Massaron.jpg",
         "companyLogoUrl": "/images/logos/gde.png",
         "socials": [
@@ -156,23 +208,37 @@
                 "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/lmassaron/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             }
         ],
         "name": "Luca Massaron",
         "bio": "Data scientist transforming data into smarter artifacts. Author of For Dummies books on AI, machine learning and algorithms. Kaggle master.",
         "badges": [
             {
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-luca_massaron",
                 "name": "gde",
-                "description": "Machine Learning Google Developer Expert"
+                "description": "Machine Learning Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-luca_massaron"
+            }
+        ]
+    },
+    "marcello_bertoli": {
+        "order": 13,
+        "featured": false,
+        "shortBio": "Uqido, XR Developer, Unity, AR",
+        "company": "Uqido",
+        "photoUrl": "/images/people/Marcello_Bertoli.png",
+        "companyLogoUrl": "/images/logos/UQIDO.svg",
+        "socials": [
+            {
+                "link": "https://www.linkedin.com/in/marcello-bertoli-b40907161/",
+                "icon": "linkedin",
+                "name": "LinkedIn"
             }
         ],
-        "order": 8,
-        "featured": true,
-        "shortBio": "Google Developer Expert"
+        "name": "Marcello Bertoli",
+        "bio": "After the degree in Computer Science at the University of Modena and Reggio Emilia, Marcello followed his videogame passion and got a master's degree at the Milano Statale University as a video game developer. For more than a year he's been working at Uqido as an XR Developer."
     },
     "michel_murabito": {
         "order": 4,
@@ -183,19 +249,19 @@
         "companyLogoUrl": "/images/logos/lutech.png",
         "socials": [
             {
+                "name": "Twitter",
                 "link": "https://twitter.com/michelmurabito",
-                "icon": "twitter",
-                "name": "Twitter"
+                "icon": "twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
+                "name": "Website",
                 "link": "https://medium.com/@mich.murabito/",
-                "icon": "website",
-                "name": "Website"
+                "icon": "website"
             }
         ],
         "name": "Michel Murabito",
@@ -205,8 +271,8 @@
         "order": 6,
         "featured": false,
         "shortBio": "Passionate developer",
-        "photoUrl": "/images/people/Michele_Mauro.jpg",
         "company": "Aton",
+        "photoUrl": "/images/people/Michele_Mauro.jpg",
         "companyLogoUrl": "/images/logos/aton.svg",
         "socials": [
             {
@@ -215,37 +281,57 @@
                 "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/mauromichele/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             }
         ],
         "name": "Michele Mauro",
         "bio": "Passionate developer, from more years that I want to admit. From Pascal to Scala, through Perl, Java, and a lot of other languages and technologies, I've seen many. And often I like to chat about it."
     },
-    "thomas_rossetto": {
+    "paolo_bertuzzo": {
+        "order": 14,
+        "featured": false,
+        "shortBio": "Technical responsible at Ennova Research",
+        "company": "Ennova Research",
+        "photoUrl": "/images/people/Paolo_Bertuzzo.jpg",
+        "companyLogoUrl": "/images/logos/ennova.svg",
         "socials": [
             {
-                "link": "https://twitter.com/rosse91",
-                "icon": "twitter",
-                "name": "Twitter"
-            },
-            {
-                "link": "https://www.linkedin.com/in/thomasrossetto/",
+                "link": "https://www.linkedin.com/in/paolo-bertuzzo-120b7735",
                 "icon": "linkedin",
                 "name": "LinkedIn"
             }
         ],
-        "name": "Thomas Rossetto",
-        "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover.",
+        "name": "Paolo Bertuzzo",
+        "bio": "Paolo Bertuzzo is a senior software engineer and technical responsible at Ennova Research Venice developing full stack and architectural solutions based on NodeJS, Java, Python and NET."
+    },
+    "thomas_rossetto": {
         "order": 9,
         "featured": false,
         "shortBio": "Software Developer @ Seesaw | Community Lead @ Programmers in Padua",
         "company": "Seesaw",
         "photoUrl": "/images/people/Thomas_Rossetto.jpg",
-        "companyLogoUrl": "/images/logos/seesaw.png"
+        "companyLogoUrl": "/images/logos/seesaw.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/rosse91",
+                "icon": "twitter"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/thomasrossetto/",
+                "icon": "linkedin"
+            }
+        ],
+        "name": "Thomas Rossetto",
+        "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover."
     },
     "umberto_mattei": {
+        "order": 7,
+        "featured": true,
+        "shortBio": "Customer Engineer at Google Cloud",
         "company": "Google",
         "photoUrl": "/images/people/Umberto_Mattei.png",
         "companyLogoUrl": "/images/logos/google.svg",
@@ -257,22 +343,23 @@
             }
         ],
         "name": "Umberto Mattei",
-        "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform.",
-        "order": 7,
-        "featured": true,
-        "shortBio": "Customer Engineer at Google Cloud"
+        "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform."
     },
     "vasudev_maduri": {
+        "shortBio": "Technology Enthusiasit, Machine Learning developer",
+        "company": "Hitachi Consulting",
+        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
+        "companyLogoUrl": "/images/logos/hitachi.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/devmaduri",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/vasudevmaduri/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             },
             {
                 "name": "Website",
@@ -283,98 +370,49 @@
         "name": "Vasudev Maduri",
         "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.",
         "order": 5,
-        "featured": false,
-        "shortBio": "Technology Enthusiasit, Machine Learning developer",
-        "company": "Hitachi Consulting",
-        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
-        "companyLogoUrl": "/images/logos/hitachi.png"
+        "featured": false
     },
-    "alessandro_calzavara": {
-        "order": 11,
-        "featured": true,
-        "shortBio": "Senior Mobile Engineer at Voxnest",
-        "company": "Voxnest",
-        "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
-        "companyLogoUrl": "/images/logos/voxnest.png",
+    "alvise_spano": {
+        "order": 16,
+        "featured": false,
+        "photoUrl": "/images/people/alvisespano.jpg",
+        "companyLogoUrl": "/images/logos/cafoscari.svg",
+        "name": "Alvise Spanò",
+        "bio": "Amiga demoscene coder in the 90s turned into a language scientist in the past 20 years. Passionate developer, aesthete and phylosopher of programming, functional in particular, author of several applications and libraries over the years. Best known for polygen.org and the programming language Lw."
+    },
+    "andrea_marin": {
+        "order": 17,
+        "featured": false,
+        "photoUrl": "/images/people/marinandrea.jpg",
+        "companyLogoUrl": "/images/logos/cafoscari.svg",
+        "name": "Andrea Marin",
+        "bio": "Andrea Marin is associate professor at the University Ca' Foscari of Venice, and he teaches the master course on software performance and scalability. He authored more that 80 papers in the field of performance evaluation of software and telecommunication systems."
+    },
+    "michele_franzin": {
+        "order": 18,
+        "featured": false,
+        "shortBio": "SeeSaw srl",
+        "company": "SeeSaw",
+        "photoUrl": "/images/people/michele_franzin.jpg",
+        "companyLogoUrl": "/images/logos/seesaw.png",
         "socials": [
             {
-                "link": "https://twitter.com/DrAL3X",
-                "icon": "twitter",
-                "name": "Twitter"
+                "name": "Twitter",
+                "link": "https://twitter.com/realfuzzy",
+                "icon": "twitter"
             },
             {
                 "name": "LinkedIn",
-                "link": "http://linkedin.com/in/alessandrocalzavara",
+                "link": "https://www.linkedin.com/in/michelefranzin",
                 "icon": "linkedin"
             },
             {
                 "name": "Website",
-                "link": "https://alessandrocalzavara.com/",
+                "link": "https://www.seesaw.it/",
                 "icon": "website"
             }
         ],
-        "name": "Alessandro Calzavara",
-        "bio": "Senior software engineer specialized in mobile development. Curious about too many things"
-    },
-    "daniel_pettenon": {
-        "order": 12,
-        "featured": false,
-        "shortBio": "CTO @Uqido",
-        "company": "Uqido",
-        "photoUrl": "/images/people/Daniel_Pettenon.jpg",
-        "companyLogoUrl": "/images/logos/UQIDO.svg",
-        "socials": [
-            {
-                "link": "https://twitter.com/d_pette",
-                "icon": "twitter",
-                "name": "Twitter"
-            },
-            {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/daniel-pettenon-3ba44b30/",
-                "icon": "linkedin"
-            },
-            {
-                "name": "Website",
-                "link": "https://tech.uqido.com/",
-                "icon": "website"
-            }
-        ],
-        "name": "Daniel Pettenon",
-        "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale."
-    },
-    "marcello_bertoli": {
-        "order": 13,
-        "featured": false,
-        "shortBio": "Uqido, XR Developer, Unity, AR",
-        "company": "Uqido",
-        "photoUrl": "/images/people/Marcello_Bertoli.png",
-        "companyLogoUrl": "/images/logos/UQIDO.svg",
-        "socials": [
-            {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/marcello-bertoli-b40907161/",
-                "icon": "linkedin"
-            }
-        ],
-        "name": "Marcello Bertoli",
-        "bio": "After the degree in Computer Science at the University of Modena and Reggio Emilia, Marcello followed his videogame passion and got a master's degree at the Milano Statale University as a video game developer. For more than a year he's been working at Uqido as an XR Developer."
-    },
-    "paolo_bertuzzo": {
-        "order": 14,
-        "featured": false,
-        "shortBio": "Technical responsible at Ennova Research",
-        "company": "Ennova Research",
-        "photoUrl": "/images/people/Paolo_Bertuzzo.jpg",
-        "companyLogoUrl": "/images/logos/ennova.svg",
-        "socials": [
-            {
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/paolo-bertuzzo-120b7735",
-                "icon": "linkedin"
-            }
-        ],
-        "name": "Paolo Bertuzzo",
-        "bio": "Paolo Bertuzzo is a senior software engineer and technical responsible at Ennova Research Venice developing full stack and architectural solutions based on NodeJS, Java, Python and NET."
+        "name": "michele franzin",
+        "bio": "Software Engineer, folgorato in gioventù da uno ZX-Spectrum vive in bilico tra il presente Ruby e un passato Java Enterprise. Lavora come Lead Developer ed Architetto in SeeSaw una giovane software house italiana. Passionario della formazione non perde occasione per condividere le sue esperienze. Nel tempo libero, quando non è impegnato ad inclinare la moto in curva, ama rilassarsi facendo foto e arrampicando montagne. Per tutto il resto c'è https://www.linkedin.com/in/michelefranzin"
     }
 }
