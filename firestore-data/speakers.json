@@ -1,11 +1,5 @@
 {
     "alessandro_calzavara": {
-        "order": 11,
-        "featured": true,
-        "shortBio": "Senior Mobile Engineer at Voxnest",
-        "company": "Voxnest",
-        "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
-        "companyLogoUrl": "/images/logos/voxnest.png",
         "socials": [
             {
                 "link": "https://twitter.com/DrAL3X",
@@ -18,13 +12,19 @@
                 "name": "LinkedIn"
             },
             {
+                "name": "Website",
                 "link": "https://alessandrocalzavara.com/",
-                "icon": "website",
-                "name": "Website"
+                "icon": "website"
             }
         ],
         "name": "Alessandro Calzavara",
-        "bio": "Senior software engineer specialized in mobile development. Curious about too many things"
+        "bio": "Senior software engineer specialized in mobile development. Curious about too many things",
+        "order": 11,
+        "featured": true,
+        "shortBio": "Senior Mobile Engineer at Voxnest",
+        "company": "Voxnest",
+        "photoUrl": "/images/people/Alessandro_Calzavara.jpg",
+        "companyLogoUrl": "/images/logos/voxnest.png"
     },
     "alessandro_pezzato": {
         "order": 10,
@@ -38,18 +38,34 @@
                 "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://linkedin.com/in/alessandropezzato",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             },
             {
+                "name": "Website",
                 "link": "https://pezzato.net",
-                "icon": "website",
-                "name": "Website"
+                "icon": "website"
             }
         ],
         "name": "Alessandro Pezzato",
         "bio": "Coding for passion since I was a child, now working as C++ trainer and developer."
+    },
+    "alvise_spano": {
+        "order": 16,
+        "featured": false,
+        "photoUrl": "/images/people/alvisespano.jpg",
+        "companyLogoUrl": "/images/logos/cafoscari.svg",
+        "name": "Alvise Spanò",
+        "bio": "Amiga demoscene coder in the 90s turned into a language scientist in the past 20 years. Passionate developer, aesthete and phylosopher of programming, functional in particular, author of several applications and libraries over the years. Best known for polygen.org and the programming language Lw."
+    },
+    "andrea_marin": {
+        "order": 17,
+        "featured": false,
+        "photoUrl": "/images/people/marinandrea.jpg",
+        "companyLogoUrl": "/images/logos/cafoscari.svg",
+        "name": "Andrea Marin",
+        "bio": "Andrea Marin is associate professor at the University Ca' Foscari of Venice, and he teaches the master course on software performance and scalability. He authored more that 80 papers in the field of performance evaluation of software and telecommunication systems."
     },
     "daniel_pettenon": {
         "order": 12,
@@ -60,33 +76,36 @@
         "companyLogoUrl": "/images/logos/UQIDO.svg",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/d_pette",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/daniel-pettenon-3ba44b30/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
-                "name": "Website",
                 "link": "https://tech.uqido.com/",
-                "icon": "website"
+                "icon": "website",
+                "name": "Website"
             }
         ],
         "name": "Daniel Pettenon",
         "bio": "Sin dai primi anni di vita ho avuto a che fare con computer, sono cresciuto assieme alla tecnologia ed è diventata da subito la mia passione. Dopo il diploma di perito capotecnico informatico sono laureato in informatica a Padova. Prima di laurearmi entro in Uqido, dove lavoro tutt'ora. In Uqido sono entrato nel 2012 come primo dipendente come sviluppatore web e ho sviluppato un prodotto software per 3 anni, per poi iniziare a sviluppare e gestire piattaforme software per clienti. Sono cresciuto in questi sette anni assieme all’azienda, che ora conta 40 dipendenti e più di dieci progetti attivi. Il mio ruolo è diventato pian piano più manageriale che operativo, e negli ultimi 2 anni mi sono formato su tematiche di leadership sviluppando processi aziendali atti alla soddisfazione del team, al miglioramento della qualità e dell’efficienza produttiva. In quest’anno sono diventato CTO di Uqido e nello stesso tempo sono diventato massimo sostenitore degli One on One meeting, senza i quali non posso immaginare vita aziendale."
     },
     "daniele_bonaldo": {
+        "order": 3,
+        "featured": true,
+        "shortBio": "Android Developer & GDE",
         "company": "Novoda",
         "photoUrl": "/images/people/Daniele_Bonaldo.jpg",
         "companyLogoUrl": "/images/logos/gde.png",
         "socials": [
             {
+                "name": "Twitter",
                 "link": "https://twitter.com/danybony_",
-                "icon": "twitter",
-                "name": "Twitter"
+                "icon": "twitter"
             },
             {
                 "link": "https://www.linkedin.com/in/danielebonaldo",
@@ -107,43 +126,29 @@
                 "name": "gde",
                 "description": "Android, Internet of Things, Wearables Google Developer Expert"
             }
-        ],
-        "order": 3,
-        "featured": true,
-        "shortBio": "Android Developer & GDE"
+        ]
     },
     "filippo_beraldo": {
-        "shortBio": "Mobile software engineer",
         "photoUrl": "/images/people/Filippo_Beraldo.jpg",
         "socials": [
             {
+                "name": "Twitter",
                 "link": "https://twitter.com/beraldofilippo",
-                "icon": "twitter",
-                "name": "Twitter"
+                "icon": "twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/beraldof/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             }
         ],
         "name": "Filippo Beraldo",
         "bio": "I have been worked on several projects during the last few years, starting from a small-sized one, up until developing large-scale apps at ASOS.com in London, UK. I will soon be joining Treatwell.",
         "order": 15,
-        "featured": false
+        "featured": false,
+        "shortBio": "Mobile software engineer"
     },
     "gazihan_alankus": {
-        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
-        "badges": [
-            {
-                "description": "Dart Google Developer Expert",
-                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus",
-                "name": "gde"
-            }
-        ],
-        "photo": "images/people/Gazihan_Alankus.jpg",
-        "order": 1,
-        "featured": true,
         "shortBio": "Dart GDE, Assistant Professor, Founder of GBot LLC.",
         "company": "GBot Consultants, LLC",
         "companyLogoUrl": "/images/logos/gde.png",
@@ -165,12 +170,20 @@
                 "link": "https://www.linkedin.com/in/gazihan-alankus-7720501/"
             }
         ],
-        "name": "Gazihan Alankus"
+        "name": "Gazihan Alankus",
+        "bio": "Recently founded gbot.dev and developing Flutter projects for a number of clients. Assistant Professor in Izmir University of Economics, Department of Computer Engineering. Holds a PhD from Washington University in St. Louis, pioneered developing games for physical therapy. Loves developing in Dart. ",
+        "badges": [
+            {
+                "name": "gde",
+                "description": "Dart Google Developer Expert",
+                "link": "https://developers.google.com/community/experts/directory/profile/profile-gazihan_alankus"
+            }
+        ],
+        "photo": "images/people/Gazihan_Alankus.jpg",
+        "order": 1,
+        "featured": true
     },
     "gianluca_segato": {
-        "companyLogo": "/images/logos/uniwhere.png",
-        "order": 0,
-        "featured": true,
         "shortBio": "Uniwhere founder",
         "company": "Uniwhere",
         "photoUrl": "/images/people/gianluca_segato.jpg",
@@ -182,18 +195,21 @@
                 "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://linkedin.com/in/giansegato",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             },
             {
-                "name": "Website",
                 "link": "http://gian.lu/",
-                "icon": "website"
+                "icon": "website",
+                "name": "Website"
             }
         ],
         "name": "Gianluca Segato",
-        "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post."
+        "bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post.",
+        "companyLogo": "/images/logos/uniwhere.png",
+        "order": 0,
+        "featured": true
     },
     "luca_massaron": {
         "order": 8,
@@ -208,9 +224,9 @@
                 "name": "Twitter"
             },
             {
+                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/lmassaron/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
+                "icon": "linkedin"
             }
         ],
         "name": "Luca Massaron",
@@ -249,9 +265,9 @@
         "companyLogoUrl": "/images/logos/lutech.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/michelmurabito",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
                 "name": "LinkedIn",
@@ -259,18 +275,42 @@
                 "icon": "linkedin"
             },
             {
-                "name": "Website",
                 "link": "https://medium.com/@mich.murabito/",
-                "icon": "website"
+                "icon": "website",
+                "name": "Website"
             }
         ],
         "name": "Michel Murabito",
         "bio": "Web Developer By Day, Superhero Wannabe By Night!"
     },
-    "michele_mauro": {
-        "order": 6,
+    "michele_franzin": {
+        "order": 18,
         "featured": false,
-        "shortBio": "Passionate developer",
+        "shortBio": "SeeSaw srl",
+        "company": "SeeSaw",
+        "photoUrl": "/images/people/michele_franzin.jpg",
+        "companyLogoUrl": "/images/logos/seesaw.png",
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/realfuzzy",
+                "icon": "twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/michelefranzin",
+                "icon": "linkedin",
+                "name": "LinkedIn"
+            },
+            {
+                "link": "https://www.seesaw.it/",
+                "icon": "website",
+                "name": "Website"
+            }
+        ],
+        "name": "michele franzin",
+        "bio": "Software Engineer, folgorato in gioventù da uno ZX-Spectrum vive in bilico tra il presente Ruby e un passato Java Enterprise. Lavora come Lead Developer ed Architetto in SeeSaw una giovane software house italiana. Passionario della formazione non perde occasione per condividere le sue esperienze. Nel tempo libero, quando non è impegnato ad inclinare la moto in curva, ama rilassarsi facendo foto e arrampicando montagne. Per tutto il resto c'è https://www.linkedin.com/in/michelefranzin"
+    },
+    "michele_mauro": {
         "company": "Aton",
         "photoUrl": "/images/people/Michele_Mauro.jpg",
         "companyLogoUrl": "/images/logos/aton.svg",
@@ -281,18 +321,18 @@
                 "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/mauromichele/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             }
         ],
         "name": "Michele Mauro",
-        "bio": "Passionate developer, from more years that I want to admit. From Pascal to Scala, through Perl, Java, and a lot of other languages and technologies, I've seen many. And often I like to chat about it."
+        "bio": "Passionate developer, from more years that I want to admit. From Pascal to Scala, through Perl, Java, and a lot of other languages and technologies, I've seen many. And often I like to chat about it.",
+        "order": 6,
+        "featured": false,
+        "shortBio": "Passionate developer"
     },
     "paolo_bertuzzo": {
-        "order": 14,
-        "featured": false,
-        "shortBio": "Technical responsible at Ennova Research",
         "company": "Ennova Research",
         "photoUrl": "/images/people/Paolo_Bertuzzo.jpg",
         "companyLogoUrl": "/images/logos/ennova.svg",
@@ -304,29 +344,32 @@
             }
         ],
         "name": "Paolo Bertuzzo",
-        "bio": "Paolo Bertuzzo is a senior software engineer and technical responsible at Ennova Research Venice developing full stack and architectural solutions based on NodeJS, Java, Python and NET."
+        "bio": "Paolo Bertuzzo is a senior software engineer and technical leader at Ennova Research Venice developing full stack and architectural solutions based on NodeJS, Java, Python and NET.",
+        "order": 14,
+        "featured": false,
+        "shortBio": "Technical Leader at Ennova Research"
     },
     "thomas_rossetto": {
-        "order": 9,
-        "featured": false,
         "shortBio": "Software Developer @ Seesaw | Community Lead @ Programmers in Padua",
         "company": "Seesaw",
         "photoUrl": "/images/people/Thomas_Rossetto.jpg",
         "companyLogoUrl": "/images/logos/seesaw.png",
         "socials": [
             {
-                "name": "Twitter",
                 "link": "https://twitter.com/rosse91",
-                "icon": "twitter"
+                "icon": "twitter",
+                "name": "Twitter"
             },
             {
-                "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/thomasrossetto/",
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "name": "LinkedIn"
             }
         ],
         "name": "Thomas Rossetto",
-        "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover."
+        "bio": "Thomas is an Italian \"fullstack\" dev and he loves learning new things ! He works in SeeSaw and plays with a lot of technologies like Rails, Saltstack, Docker, Elixir and more stuff like that. In his (few) free time he is the organizer of Programmers in Padua community. Also, he's an indie rock music lover.",
+        "order": 9,
+        "featured": false
     },
     "umberto_mattei": {
         "order": 7,
@@ -346,6 +389,8 @@
         "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform."
     },
     "vasudev_maduri": {
+        "order": 5,
+        "featured": false,
         "shortBio": "Technology Enthusiasit, Machine Learning developer",
         "company": "Hitachi Consulting",
         "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
@@ -357,62 +402,17 @@
                 "name": "Twitter"
             },
             {
-                "link": "https://www.linkedin.com/in/vasudevmaduri/",
-                "icon": "linkedin",
-                "name": "LinkedIn"
-            },
-            {
-                "name": "Website",
-                "link": "http://deva4u.wordpress.com",
-                "icon": "website"
-            }
-        ],
-        "name": "Vasudev Maduri",
-        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation.",
-        "order": 5,
-        "featured": false
-    },
-    "alvise_spano": {
-        "order": 16,
-        "featured": false,
-        "photoUrl": "/images/people/alvisespano.jpg",
-        "companyLogoUrl": "/images/logos/cafoscari.svg",
-        "name": "Alvise Spanò",
-        "bio": "Amiga demoscene coder in the 90s turned into a language scientist in the past 20 years. Passionate developer, aesthete and phylosopher of programming, functional in particular, author of several applications and libraries over the years. Best known for polygen.org and the programming language Lw."
-    },
-    "andrea_marin": {
-        "order": 17,
-        "featured": false,
-        "photoUrl": "/images/people/marinandrea.jpg",
-        "companyLogoUrl": "/images/logos/cafoscari.svg",
-        "name": "Andrea Marin",
-        "bio": "Andrea Marin is associate professor at the University Ca' Foscari of Venice, and he teaches the master course on software performance and scalability. He authored more that 80 papers in the field of performance evaluation of software and telecommunication systems."
-    },
-    "michele_franzin": {
-        "order": 18,
-        "featured": false,
-        "shortBio": "SeeSaw srl",
-        "company": "SeeSaw",
-        "photoUrl": "/images/people/michele_franzin.jpg",
-        "companyLogoUrl": "/images/logos/seesaw.png",
-        "socials": [
-            {
-                "name": "Twitter",
-                "link": "https://twitter.com/realfuzzy",
-                "icon": "twitter"
-            },
-            {
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/michelefranzin",
+                "link": "https://www.linkedin.com/in/vasudevmaduri/",
                 "icon": "linkedin"
             },
             {
-                "name": "Website",
-                "link": "https://www.seesaw.it/",
-                "icon": "website"
+                "link": "http://deva4u.wordpress.com",
+                "icon": "website",
+                "name": "Website"
             }
         ],
-        "name": "michele franzin",
-        "bio": "Software Engineer, folgorato in gioventù da uno ZX-Spectrum vive in bilico tra il presente Ruby e un passato Java Enterprise. Lavora come Lead Developer ed Architetto in SeeSaw una giovane software house italiana. Passionario della formazione non perde occasione per condividere le sue esperienze. Nel tempo libero, quando non è impegnato ad inclinare la moto in curva, ama rilassarsi facendo foto e arrampicando montagne. Per tutto il resto c'è https://www.linkedin.com/in/michelefranzin"
+        "name": "Vasudev Maduri",
+        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation."
     }
 }

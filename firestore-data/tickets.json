@@ -1,1 +1,28 @@
-{"003":{"ends":"Nov 16","order":"3","soldOut":false,"url":"","primary":true,"name":"Regular","starts":"","currency":"FREE","regular":true,"inDemand":false,"available":false}}
+{
+    "003": {
+        "ends": "Nov 16",
+        "order": "3",
+        "soldOut": true,
+        "url": "",
+        "primary": true,
+        "name": "Regular",
+        "starts": "",
+        "currency": "FREE",
+        "regular": true,
+        "inDemand": false,
+        "available": false
+    },
+    "004": {
+        "ends": "Nov 16",
+        "order": "3",
+        "soldOut": false,
+        "url": "",
+        "primary": true,
+        "name": "Waiting list",
+        "starts": "",
+        "currency": "FREE",
+        "regular": true,
+        "inDemand": false,
+        "available": true
+    }
+}

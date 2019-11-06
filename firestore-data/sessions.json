@@ -259,6 +259,21 @@
         "presentation": "",
         "complexity": "Intermediate"
     },
+    "220": {
+        "tags": [
+            "Firebase",
+            "Cloud"
+        ],
+        "speakers": [
+            "michel_murabito"
+        ],
+        "title": "Firebase Functions - Il lato chiaro della Forza",
+        "videoId": "",
+        "language": "Italian",
+        "description": "Firebase rende incredibilmente facile scrivere, distribuire e scalare funzioni e servizi backend senza preoccuparsi dell’infrastruttura e di framework/librerie. Ma quali sono le reali potenzialità e (soprattutto) cosa dobbiamo fare per non cedere al lato oscuro ed implementare correttamente API REST, trigger automatici o funzioni custom? In questo talk esploreremo il paradigma “serverless” offerto da Firebase e come sfruttarlo per rendere la galassia un posto (leggermente) migliore.",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
     "232": {
         "icon": "registration",
         "title": "Registration",
