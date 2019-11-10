@@ -388,31 +388,32 @@
         "name": "Umberto Mattei",
         "bio": "Enthusiastic presales engineer, devoted to technology and innovation. Currently helping developers to make the most out of Google Cloud Platform."
     },
-    "vasudev_maduri": {
-        "order": 5,
-        "featured": false,
-        "shortBio": "Technology Enthusiasit, Machine Learning developer",
-        "company": "Hitachi Consulting",
-        "photoUrl": "/images/people/Vasudev_Maduri.jpeg",
-        "companyLogoUrl": "/images/logos/hitachi.png",
+    "marco_gomiero": {
+        "shortBio": "Mobile Engineer",
+        "company": "Uniwhere",
+        "photoUrl": "/images/people/Marco_Gomiero.jpg",
+        "companyLogoUrl": "/images/logos/uniwhere.png",
         "socials": [
             {
-                "link": "https://twitter.com/devmaduri",
+                "link": "https://www.twitter.com/marcoGomier",
                 "icon": "twitter",
                 "name": "Twitter"
             },
             {
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/vasudevmaduri/",
+                "link": "https://www.linkedin.com/in/marco-gomiero/",
                 "icon": "linkedin"
             },
             {
-                "link": "http://deva4u.wordpress.com",
+                "link": "https://marcogomiero.com",
                 "icon": "website",
                 "name": "Website"
             }
         ],
-        "name": "Vasudev Maduri",
-        "bio": "I am Vasudev Maduri, an analytics engineer working at Hitachi Consulting. A machine learning developer by profession. My past works are related to IoT on Google Cloud, Deep Learning with TensorFlow and Cloud Infrastructure management. Currently, am working on a solution for manufacturing industry shop floor automation."
+        "name": "Marco Gomiero",
+        "bio": "Computer Engineer, Android Developer, passionate about data analysis and about making automated tools for overcoming trivial tasks in an unnecessarily complicated way due to pathological laziness. Currently working at Uniwhere as Mobile Engineer, in my free time I organize events with the Google Developer Group Venezia, I share my experience by public speaking and I write code..",
+        "companyLogo": "/images/logos/uniwhere.png",
+        "order": 19,
+        "featured": false
     }
 }

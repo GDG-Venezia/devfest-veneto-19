@@ -57,20 +57,6 @@
             "michel_murabito"
         ]
     },
-    "206": {
-        "tags": [
-            "Cloud"
-        ],
-        "speakers": [
-            "vasudev_maduri"
-        ],
-        "title": "A brave new world. \"Serverless\" computing on Google Cloud.",
-        "videoId": "",
-        "language": "English",
-        "description": "Millions of people swap selfies on Snapchat or play Super Mario Run every day. Do you know where these apps are running? It's the venerable Google App Engine and the infrastructure of Google Cloud that allow developers to focus on their code and let it scaler the application to Google. Whether you are deploying applications with App Engine, or functions with Cloud Functions, you no longer worry about servers or clusters to provision and you pay proportionately for usage, with no fixed costs. In this session, let's find out together what's under the hood, and especially Google's new \"serverless\" beyond App Engine and Cloud Functions.",
-        "presentation": "",
-        "complexity": "Intermediate"
-    },
     "207": {
         "title": "5 things you may want to know before an Event Sourcing project",
         "videoId": "",
@@ -79,7 +65,7 @@
         "presentation": "",
         "complexity": "Intermediate",
         "tags": [
-            "Management"
+            "Code Architecture"
         ],
         "speakers": [
             "michele_mauro"
@@ -204,7 +190,8 @@
     },
     "216": {
         "tags": [
-            "Mobile"
+            "Mobile",
+            "Code Architecture"
         ],
         "speakers": [
             "filippo_beraldo"
@@ -271,6 +258,21 @@
         "videoId": "",
         "language": "Italian",
         "description": "Firebase rende incredibilmente facile scrivere, distribuire e scalare funzioni e servizi backend senza preoccuparsi dell’infrastruttura e di framework/librerie. Ma quali sono le reali potenzialità e (soprattutto) cosa dobbiamo fare per non cedere al lato oscuro ed implementare correttamente API REST, trigger automatici o funzioni custom? In questo talk esploreremo il paradigma “serverless” offerto da Firebase e come sfruttarlo per rendere la galassia un posto (leggermente) migliore.",
+        "presentation": "",
+        "complexity": "Intermediate"
+    },
+    "221": {
+        "tags": [
+            "Mobile",
+            "Cross Platform"
+        ],
+        "speakers": [
+            "marco_gomiero"
+        ],
+        "title": "Flutter or React Native, a cross-platform dilemma",
+        "videoId": "",
+        "language": "English",
+        "description": "Nowadays the hype around Flutter is raising a lot. But what about the “(not so) old-fashioned” React Native? In this talk, we will see the basics and the differences between the two frameworks. In particular, we will understand how to build User Interfaces and how the internals of the two framework works. Finally, we will try to understand when and why to choose a cross-platform framework and which of the two. All this journey is based on the true story of an Android Developer that he wanted to explore the cross-platform jungle both for work and fun reasons.",
         "presentation": "",
         "complexity": "Intermediate"
     },

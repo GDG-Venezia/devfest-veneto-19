@@ -2,16 +2,20 @@
     "2019-11-16": {
         "tracks": [
             {
-                "title": "Yellow Track"
+                "title": "Yellow Track",
+                "location": "Aula 1"
             },
             {
-                "title": "Blue Track"
+                "title": "Blue Track",
+                "location": "Aula 2"
             },
             {
-                "title": "Green Track"
+                "title": "Green Track",
+                "location": "Aula C"
             },
             {
-                "title": "Workshop"
+                "title": "Workshop",
+                "location": "Aula A"
             }
         ],
         "dateReadable": "November 16",
@@ -76,7 +80,7 @@
                     },
                     {
                         "items": [
-                            206
+                            221
                         ]
                     },
                     {
